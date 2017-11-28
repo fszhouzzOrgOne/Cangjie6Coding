@@ -142,6 +142,7 @@
 十，兼容
 沒：ene，ehse，淊等同。
 冬：hey，heim。
+咎：hor，hyr。
 告：告吿。
 兼：兩個禾字的hhtc，兼容到txc。
 氐：hupm，hupi。
@@ -149,16 +150,18 @@
 户：户戶。
 冫：冫二。
 礻：inf，mmf。
+真：作部件，取jbmc，pbuc。
 灰：kf，mf。
 丸：kni，knk。
 片：llml，llms。
-开：开幵。
+亐：mks和mjs。
 兔：刀頭的兼容到頭。
 角：nbg，nbq。
 敢，nsjok，mljok。
 食：𩙿𩚁兼容到飠，不反過來。
 竹：olol，olon。
 令：下从ㄗ的兼容到，不反過來。
+每：在右邊，取owy和owj。
 者：qa，qia。如翥qass，翥qias，䡤qiaj。
 敖：qmsok，gysok。
 聚：seo，seooo。
@@ -169,5 +172,11 @@
 𣴎：tge，tqe。
 养：toll，tcll。
 亮：ybhn，ybhu。
+产：作部件，取y和yth。
 嬴：ynv，ykv。
 
+另：
+幷：作部件，兼容到并，不反過來。
+旣：左邊，若取hs，兼容到hp。
+幵，也取mt开。
+𠫓：也取yi。
