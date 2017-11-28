@@ -62,6 +62,7 @@ ho  ⼻
 p  ⼼
 i  ⼽
 hs  ⼾
+is  ⼾
 q  ⼿
 je  ⽀
 ye  ⽁
@@ -90,6 +91,7 @@ ck  ⽗
 kk  ⽘
 vm  ⽙
 llml  ⽚
+llms  ⽚
 mvh  ⽛
 hq  ⽜
 ik  ⽝
@@ -117,6 +119,7 @@ hd  ⽲
 jc  ⽳
 yt  ⽴
 olon  ⽵
+olol  ⽵
 fd  ⽶
 vif  ⽷
 oju  ⽸
@@ -147,6 +150,7 @@ yhv  ⾐
 mub  ⾑
 buhu  ⾒
 nbg  ⾓
+nbq  ⾓
 ymmr  ⾔
 cor  ⾕
 mrt  ⾖
@@ -200,6 +204,7 @@ ywii  ⿄
 ixpp  ⿅
 dooe  ⿆
 ijcc  ⿇
+idd  ⿇
 tmlc  ⿈
 hdoe  ⿉
 wfgf  ⿊
@@ -209,6 +214,7 @@ bux  ⿍
 gtje  ⿎
 xvvv  ⿏
 huwml  ⿐
+huwt  ⿐
 yx  ⿑
 xuoo  ⿒
 ybysp  ⿓
@@ -218,7 +224,9 @@ ii  ⺀
 hh  ⺁
 mn  ⺂
 lu  ⺃
+vl  ⺃
 n  ⺄
+mn  ⺄
 mv  ⺄
 hl  ⺅
 ls  ⺆
@@ -272,22 +280,23 @@ bll  ⺵
 tq  ⺶
 tg  ⺷
 tq  ⺸
+tmj  ⺸
 jk  ⺹
-ll  ⺺
+js  ⺺
 lm  ⺻
 bim  ⺼
-hss  ⺽
+hps  ⺽
 jj  ⺾
 jj  ⺿
 lmy  ⻀
 yphn  ⻁
-inol  ⻂
-inlo  ⻂
+yphu  ⻁
 inol  ⻂
 mllw  ⻃
 mcw  ⻄
 bhu  ⻅
 nbq  ⻆
+nbg  ⻆
 nboo  ⻇
 isu  ⻈
 bo  ⻉
@@ -295,6 +304,7 @@ rx  ⻊
 kq  ⻋
 inno  ⻌
 ynno  ⻍
+inno  ⻍
 inno  ⻎
 nl  ⻏
 omp  ⻐
@@ -312,7 +322,11 @@ hnk  ⻛
 no  ⻜
 oav  ⻝
 oas  ⻞
+oap  ⻞
+oai  ⻞
 oai  ⻟
+oas  ⻟
+oap  ⻟
 nu  ⻠
 vvmbu  ⻡
 sm  ⻢
