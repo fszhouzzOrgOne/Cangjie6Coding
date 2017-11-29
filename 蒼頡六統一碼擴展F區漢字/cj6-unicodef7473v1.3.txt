@@ -593,7 +593,9 @@
 551 mnsh 𭃖
 552 twln 𭃗
 553 shob 𭃘
+553 nobo 𭃘
 554 shhu 𭃙
+554 nhbu 𭃙
 555 gmsk 𭃚
 555 hmshh 𭃚
 555 hmshi 𭃚
@@ -627,8 +629,8 @@
 581 mrbln 𭃴
 582 tirln 𭃵
 583 amhln 𭃶
-584 sixx 𭃷
-584 shxx 𭃷
+584 shix 𭃷
+584 shhx 𭃷
 584 skxx 𭃷
 585 jmgln 𭃸
 586 ehcsh 𭃹
@@ -4123,6 +4125,7 @@
 3875 mhoav 𭷒
 3876 hqu 𭷓
 3877 shhq 𭷔
+3877 nhq 𭷔
 3878 ckhq 𭷕
 3879 hqpi 𭷖
 3880 hqhg 𭷗
@@ -6140,8 +6143,8 @@
 5700 lilis 𮓳
 5701 lis 𮓴
 5702 skli 𮓵
-5702 shli 𮓵
-5702 sili 𮓵
+5702 shhi 𮓵
+5702 shii 𮓵
 5703 lin 𮓶
 5704 liru 𮓷
 5705 muli 𮓸
@@ -6576,6 +6579,7 @@
 6116 vcrme 𮚓
 6117 ngec 𮚔
 6118 shbuc 𮚕
+6118 sibuc 𮚕
 6119 bcwa 𮚖
 6120 bcbup 𮚗
 6121 yrbc 𮚘
