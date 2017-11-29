@@ -146,9 +146,9 @@
 冬：hey，heim。
 咎：hor，hyr。
 告：告吿。
-兼：兩個禾字的hhtc，兼容到txc。
+兼：兩個禾字的hhtc，也取txc。
 氐：hupm，hupi。
-良：郞兼容到郎，不反過來。
+良：郞取iavnl和iainl。
 户：户戶。
 冫：冫二。
 礻：inf，mmf。
@@ -157,18 +157,18 @@
 丸：kni，knk。
 片：llml，llms。
 亐：mks和mjs。
-兔：刀頭的兼容到頭。
+兔：刀頭的也取n。
 角：nbg，nbq。
 敢，nsjok，mljok。
-食：𩙿𩚁兼容到飠，不反過來。
+食：𩙿𩚁都取oai。
 竹：olol，olon。
-令：下从ㄗ的兼容到，不反過來。
-每：在右邊，取owy和owj。
+令：从ㄗ的都取oni。
+每：在右或下，取owy和owj。
 者：qa，qia。如翥qass，翥qias，䡤qiaj。
 敖：qmsok，gysok。
 聚：seo，seooo。
 刃：shh，shi，sk。
-艸：兼容到廿。
+艸：爲頭也取廿。
 益：tcbt，cmct。
 善：tgtr，tqtr。
 𣴎：tge，tqe。
@@ -178,7 +178,7 @@
 嬴：ynv，ykv。
 
 另：
-幷：作部件，兼容到并，不反過來。
-旣：左邊，若取hs，兼容到hp。
+幷：作部件，也取并。
+旣：左邊，若取hs，也取hp。
 幵，也取mt开。
 𠫓：也取yi。
