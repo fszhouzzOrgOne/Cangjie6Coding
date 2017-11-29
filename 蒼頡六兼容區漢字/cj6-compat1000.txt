@@ -343,7 +343,7 @@ gfle 隷
 oowy 侮
 oowj 侮
 ocwa 僧
-shahu 免
+shau 免
 nahu 免
 nauks 勉
 tlmks 勤
@@ -587,9 +587,9 @@ onbo 像
 ouos 㒞
 oous 㒞
 yihu 𠘺
-shahu 免
+shau 免
 nahu 免
-shahi 兔
+shai 兔
 nahi 兔
 fuitc 兤
 bumc 具
