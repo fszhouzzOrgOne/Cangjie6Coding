@@ -344,6 +344,7 @@ oowy 侮
 oowj 侮
 ocwa 僧
 shahu 免
+nahu 免
 nauks 勉
 tlmks 勤
 hwhj 卑
@@ -587,7 +588,9 @@ ouos 㒞
 oous 㒞
 yihu 𠘺
 shahu 免
+nahu 免
 shahi 兔
+nahi 兔
 fuitc 兤
 bumc 具
 xlmc 𠔜
@@ -606,6 +609,7 @@ imqbu 𩇟
 vl 凵
 sk 刃
 shi 刃
+shh 刃
 dheln 㓟
 yvoln 刻
 iavln 剆
