@@ -1131,6 +1131,7 @@
 1025 rypf 𭊰
 1026 rrxe 𭊱
 1027 rvvv 𭊲
+1027 rvrvv 𭊲
 1028 ranp 𭊳
 1029 rhup 𭊴
 1030 rhnf 𭊵
