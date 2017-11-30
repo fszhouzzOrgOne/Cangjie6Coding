@@ -9,6 +9,7 @@
 9 fjs 𬺸
 10 smm 𬺹
 11 ljs 𬺺
+11 lks 𬺺
 12 ms 𬺻
 13 mnpd 𬺼
 14 pkp 𬺽
@@ -41,6 +42,7 @@
 37 maoi 𬻔
 38 mcwm 𬻕
 39 mnnau 𬻖
+39 mnshu 𬻖
 40 mnnsd 𬻗
 41 sksk 𬻘
 41 nkmm 𬻘
@@ -74,6 +76,7 @@
 67 vshh 𬻲
 68 lmn 𬻳
 69 alosl 𬻴
+69 aloni 𬻴
 70 nixc 𬻵
 71 eml 𬻶
 72 rssio 𬻷
@@ -123,7 +126,7 @@
 115 nrup 𬼢
 116 knyk 𬼣
 117 vrn 𬼤
-118 dlr 𬼥
+118 dln 𬼥
 119 dgn 𬼦
 120 hshu 𬼧
 121 nrpd 𬼨
