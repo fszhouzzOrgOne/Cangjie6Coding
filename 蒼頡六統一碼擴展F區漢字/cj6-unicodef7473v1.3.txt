@@ -940,7 +940,8 @@
 849 rhdi 𭈀
 850 roll 𭈁
 851 roam 𭈂
-852 heyp 𭈃
+852 hyrp 𭈃
+852 horp 𭈃
 853 rojz 𭈄
 854 rhru 𭈅
 855 ormv 𭈆
