@@ -1021,6 +1021,7 @@
 923 rior 𭉊
 923 rmor 𭉊
 924 rtgf 𭉋
+924 rtqc 𭉋
 925 rmfp 𭉌
 925 rifp 𭉌
 926 rilv 𭉍
