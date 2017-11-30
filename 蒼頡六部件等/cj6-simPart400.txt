@@ -141,6 +141,7 @@ niq  ⾇
 hbyi  ⾈
 av  ⾉
 nau  ⾊
+shau  ⾊
 uu  ⾋
 yhp  ⾌
 li  ⾍
@@ -230,6 +231,7 @@ mn  ⺄
 mv  ⺄
 hl  ⺅
 ls  ⺆
+hs  ⺆
 hn  ⺇
 hn  ⺈
 ln  ⺉
@@ -278,6 +280,7 @@ bc  ⺳
 bhu  ⺴
 bll  ⺵
 tq  ⺶
+tgh  ⺶
 tg  ⺷
 tq  ⺸
 tmj  ⺸
@@ -345,6 +348,7 @@ xuo  ⻮
 ytwu  ⻯
 ikp  ⻰
 hxu  ⻱
+nxu  ⻱
 nwlu  ⻲
 nwu  ⻳
 m  ㇀
@@ -470,6 +474,7 @@ mvsk  ㆮ
 vvk  ㆯ
 clb  ㆰ
 msb  ㆱ
+mlsb  ㆱ
 mlm  ㆲ
 lk  ㆳ
 vs  ㆴ
