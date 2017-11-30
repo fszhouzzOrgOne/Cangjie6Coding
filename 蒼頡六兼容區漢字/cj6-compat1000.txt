@@ -539,6 +539,7 @@ yrtkr 諾
 yrobn 諭
 yrobv 諭
 yrtag 謹
+yrtlg 謹
 yvfe 變
 bccwa 贈
 jjobn 輸
@@ -557,10 +558,13 @@ vlyta 響
 mrumz 頋
 xfhmz 頻
 shjbc 鬒
+shpbc 鬒
 hxu 龜
+nxu 龜
 phkp 𢡊
 phka 𢡄
 dijc 𣏕
+did 𣏕
 dcrl 㮝
 bumjj 䀘
 bumt 䀘
