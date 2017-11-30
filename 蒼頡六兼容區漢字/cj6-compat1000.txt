@@ -1076,7 +1076,6 @@ qia 者
 qa 者
 huumb 𦓚
 qdihh 𦔣
-qdihw 𦔣
 qdihy 𦔣
 qdihj 𦔣
 sjhh 聠
@@ -1088,6 +1087,7 @@ bmg 䏕
 bhg 䏕
 yib 育
 bnau 脃
+bshu 脃
 bcip 䐋
 bwhj 脾
 bfv 媵
@@ -1108,6 +1108,7 @@ tino 芝
 tbks 劳
 top 花
 uuys 芳
+tyhs 芳
 tmvh 芽
 tjr 苦
 tnf 𦬼
@@ -1237,6 +1238,8 @@ tjumi 䩶
 dqwtj 韠
 jbiom 𩐊
 jbmom 𩐊
+ybiom 𩐊
+ybmom 𩐊
 mumz 䪲
 mtmz 𩒖
 msumz 頋
@@ -1254,6 +1257,7 @@ sfcru 駾
 bbomj 䯎
 shmhn 𩬰
 shjbc 鬒
+shpbc 鬒
 hunwf 鱀
 aunwf 鱀
 mjmjz 鳽
