@@ -585,6 +585,7 @@ knk 丸
 kni 丸
 mo 乁
 mbvm 𠄢
+mbrv 𠄢
 oof 你
 oowj 侮
 oowy 侮
@@ -613,6 +614,7 @@ mgb 再
 bbmm 𠕋
 bhu 冗
 bshi 冤
+bnai 冤
 oo 仌
 heim 冬
 hey 冬
@@ -651,6 +653,7 @@ hviil 卿
 hvhpl 卿
 hp 𠨬
 mf 灰
+kf 灰
 nhe 及
 lwle 叟
 soe 𠭣
@@ -660,6 +663,7 @@ rhi 吆
 rmt 咞
 rnhe 吸
 rmg 呈
+rhg 呈
 bqr 周
 bgr 周
 rrmjs 咢
@@ -690,6 +694,7 @@ lmg 壮
 gihs 城
 gpbv 埴
 gshi 堍
+gnai 堍
 hng 型
 mng 型
 hlg 堲
@@ -698,6 +703,7 @@ glre 報
 nog 墬
 gxoc 𡓤
 gbhn 売
+gbhu 売
 gbtm 壷
 heqj 夆
 nini 多
@@ -714,11 +720,13 @@ vtt 姘
 vsbb 婦
 vjce 㛮
 vhjl 㛼
+vmjl 㛼
 vggn 嬈
 vdlc 嬾
 vdlz 嬾
 jmms 𡧈
 jshi 寃
+jnai 寃
 jpbc 寘
 jpwn 寧
 jmfc 寳
@@ -811,6 +819,7 @@ qike 拔
 qib 捐
 qhie 𢬌
 qshu 挽
+qnau 挽
 qhh 拼
 qtt 拼
 qogr 捨
@@ -833,6 +842,11 @@ owjok 敏
 owyok 敏
 tprok 敬
 yxcye 𣀊
+yxcok 𣀊
+ykcye 𣀊
+ykcok 𣀊
+itcye 𣀊
+itcok 𣀊
 hpmvu 旣
 lga 書
 mtma 晉
@@ -843,6 +857,7 @@ awot 㬈
 aise 㫤
 abu 冒
 anau 冕
+ashu 冕
 asje 最
 yta 暜
 bob 肭
@@ -888,6 +903,7 @@ kdhne 殺
 gnhne 殻
 snhne 𣪍
 uwyi 𡴋
+uwj 𡴋
 oyyib 𣫺
 ojyib 𣫺
 ehni 汎
@@ -923,6 +939,7 @@ ejtc 濆
 eowb 瀹
 eqbd 瀞
 eynv 瀛
+eyvq 瀛
 eolf 㶖
 ekub 灊
 vf 災
@@ -980,6 +997,7 @@ but 𥃲
 bumlc 𥄙
 wle 𥄳
 pbvc 眞
+pbuc 眞
 jbuc 真
 jbuc 真
 buib 睊
