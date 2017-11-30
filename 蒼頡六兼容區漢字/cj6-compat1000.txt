@@ -5,7 +5,9 @@ mwbuc 賈
 ebbb 滑
 ll 串
 pr 句
+hxu 龜
 nxu 龜
+hxu 龜
 nxu 龜
 qhk 契
 c 金
@@ -424,6 +426,7 @@ ynai 逸
 tloog 難
 vlyta 響
 xnhmz 頻
+xlhmz 頻
 ijwp 恵
 suf 𤋮
 orjrr 舘
@@ -432,6 +435,7 @@ mmrhu 况
 imrhu 况
 omg 全
 omjn 侀
+ohjn 侀
 omtn 侀
 kihu 充
 yihu 充
@@ -472,6 +476,7 @@ qmsok 敖
 gysok 敖
 aqmb 晴
 iib 朗
+ivb 朗
 ybhg 望
 ybmg 望
 dijk 杖
@@ -481,6 +486,7 @@ ekiu 流
 eyiu 流
 ebmu 滛
 etv 滋
+eyii 滋
 etao 漢
 etlo 漢
 eqbd 瀞
@@ -493,7 +499,7 @@ khqa 猪
 khqia 猪
 mgjbc 瑱
 tvmn 甆
-tvmun 甆
+timun 甆
 mulw 画
 kwle 瘝
 kabt 瘟
