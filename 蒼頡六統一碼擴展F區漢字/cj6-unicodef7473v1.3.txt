@@ -928,7 +928,7 @@
 837 rtt 𭇴
 838 rghl 𭇵
 839 rdnd 𭇶
-840 mrnp 𭇷
+840 mnrp 𭇷
 841 ger 𭇸
 842 rmoo 𭇹
 843 ror 𭇺
