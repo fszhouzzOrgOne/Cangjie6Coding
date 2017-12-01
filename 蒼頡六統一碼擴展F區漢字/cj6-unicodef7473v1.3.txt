@@ -2281,6 +2281,7 @@
 2086 efbl 𭛕
 2086 fffb 𭛕
 2087 hybll 𭛖
+2087 lybll 𭛖
 2088 hhdd 𭛗
 2088 hdhhd 𭛗
 2089 vdhhh 𭛘
