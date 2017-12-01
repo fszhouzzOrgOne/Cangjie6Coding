@@ -1784,7 +1784,8 @@
 1627 jcahi 𭔊
 1628 jphr 𭔋
 1629 jmua 𭔌
-1630 jowk 𭔍
+1630 joyk 𭔍
+1630 jojk 𭔍
 1631 jhfp 𭔎
 1632 jmhr 𭔏
 1633 jvvd 𭔐
