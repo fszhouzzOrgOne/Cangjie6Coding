@@ -260,10 +260,13 @@ rup  ⺠
 ym  ⺡
 ff  ⺢
 hf  ⺣
-hf  ⺤
-hf  ⺥
+hf    ⺤
+hiih  ⺤
+hf    ⺥
+hhii  ⺥
 lim  ⺦
 hg  ⺧
+kh  ⺨
 ksh  ⺨
 mg  ⺩
 nx  ⺪

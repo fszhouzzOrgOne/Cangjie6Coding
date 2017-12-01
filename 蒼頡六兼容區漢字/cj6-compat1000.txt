@@ -379,7 +379,8 @@ eqa 渚
 etlo 漢
 qiaf 煮
 qaf 煮
-hf 爫
+hf   爫
+hiih 爫
 mgmko 琢
 mrhwj 碑
 mfg 社
