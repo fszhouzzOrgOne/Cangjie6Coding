@@ -1653,6 +1653,7 @@
 1507 sevv 𭒒
 1508 ddv 𭒓
 1509 vtmr 𭒔
+1509 vttr 𭒔
 1510 rev 𭒕
 1511 vyko 𭒖
 1512 vnwu 𭒗
