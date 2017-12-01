@@ -1577,6 +1577,7 @@
 1439 ykyj 𭑎
 1440 nwlk 𭑏
 1441 howyi 𭑐
+1441 howj 𭑐
 1442 bmik 𭑑
 1443 owlk 𭑒
 1444 jdki 𭑓
