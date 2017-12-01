@@ -1837,7 +1837,10 @@
 1678 ncdi 𭔽
 1679 lgdi 𭔾
 1680 twmdi 𭔿
+1680 cmwi 𭔿
+1680 tbmi 𭔿
 1680 ttbi 𭔿
+1680 cmbi 𭔿
 1681 gtdi 𭕀
 1682 asei 𭕁
 1683 wcdi 𭕂
