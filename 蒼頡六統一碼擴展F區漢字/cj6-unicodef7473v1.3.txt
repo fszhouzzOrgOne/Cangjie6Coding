@@ -1599,6 +1599,7 @@
 1457 kwjc 𭑠
 1458 hmdk 𭑡
 1459 ckjk 𭑢
+1459 tkjk 𭑢
 1460 koga 𭑣
 1461 mnkk 𭑤
 1461 mmkk 𭑤
