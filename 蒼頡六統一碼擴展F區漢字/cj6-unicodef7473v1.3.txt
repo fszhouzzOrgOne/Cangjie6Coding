@@ -1726,7 +1726,9 @@
 1574 lbnd 𭓕
 1575 jdbms 𭓖
 1576 lsbnd 𭓗
+1576 lbnd 𭓗
 1577 lsbnd 𭓘
+1577 lbnd 𭓘
 1578 jdlga 𭓙
 1579 fdjrr 𭓚
 1580 ndnru 𭓛
