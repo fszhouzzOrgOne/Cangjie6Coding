@@ -1518,6 +1518,7 @@
 1382 gtno 𭐕
 1383 grmi 𭐖
 1384 grkf 𭐗
+1384 grjf 𭐗
 1385 gfomd 𭐘
 1386 grni 𭐙
 1387 gtmfr 𭐚
