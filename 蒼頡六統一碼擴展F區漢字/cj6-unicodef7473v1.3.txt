@@ -2653,6 +2653,7 @@
 2424 mnq 𭠧
 2425 qkg 𭠨
 2426 qmtn 𭠩
+2426 qmjn 𭠩
 2427 qhbu 𭠪
 2428 qor 𭠫
 2429 qnir 𭠬
