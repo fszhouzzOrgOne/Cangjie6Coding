@@ -2549,6 +2549,7 @@
 2338 pmwu 𭟑
 2339 ptaa 𭟒
 2340 pwfg 𭟓
+2340 pwgg 𭟓
 2341 yop 𭟔
 2342 etp 𭟕
 2343 pybo 𭟖
