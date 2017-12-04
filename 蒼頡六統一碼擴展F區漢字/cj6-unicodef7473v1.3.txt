@@ -2538,7 +2538,7 @@
 2328 ptor 𭟇
 2329 ptbi 𭟈
 2330 panr 𭟉
-2331 pssu 𭟊
+2331 phsu 𭟊
 2331 pisu 𭟊
 2332 jnp 𭟋
 2333 elp 𭟌
