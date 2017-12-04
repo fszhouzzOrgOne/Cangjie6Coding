@@ -2370,7 +2370,7 @@
 2166 npp 𭜥
 2167 mrp 𭜦
 2168 fgp 𭜧
-2169 mpp 𭜨
+2169 mnpp 𭜨
 2170 mamp 𭜩
 2171 wkep 𭜪
 2172 lip 𭜫
