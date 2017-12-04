@@ -3229,7 +3229,7 @@
 2949 bin 𭨴
 2950 bim 𭨵
 2951 bleg 𭨶
-2952 bhlr 𭨷
+2952 bhmr 𭨷
 2953 bomr 𭨸
 2954 bmpx 𭨹
 2955 bimr 𭨺
