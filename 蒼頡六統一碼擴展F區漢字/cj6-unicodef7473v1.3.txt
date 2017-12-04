@@ -3526,6 +3526,7 @@
 3237 ypmno 𭭔
 3238 togno 𭭕
 3239 ionno 𭭖
+3239 iovno 𭭖
 3240 xbdno 𭭗
 3241 mxvs 𭭘
 3242 xyn 𭭙
