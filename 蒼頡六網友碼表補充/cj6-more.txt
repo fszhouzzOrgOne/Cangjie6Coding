@@ -142,6 +142,7 @@ rwhu ㊃
 rmdr ㊄ 
 ryc ㊅ 
 rju ㊆ 
+rjv ㊆ 
 rho ㊇ 
 rkn ㊈ 
 rj ㊉ 
@@ -153,6 +154,7 @@ wub ㋃
 mmb ㋄ 
 ycb ㋅ 
 jub ㋆ 
+jvb ㋆ 
 hob ㋇ 
 knb ㋈ 
 mrb ㋉ 
@@ -166,6 +168,7 @@ wua ㏣
 mma ㏤ 
 yca ㏥ 
 jua ㏦ 
+jva ㏦ 
 hoa ㏧ 
 kna ㏨ 
 mra ㏩ 
@@ -177,6 +180,7 @@ mwua ㏭
 mmma ㏮ 
 myca ㏯ 
 mjua ㏰ 
+mjva ㏰ 
 mhoa ㏱ 
 mkna ㏲ 
 mmra ㏳ 
@@ -188,6 +192,7 @@ mmwua ㏷
 mmmma ㏸ 
 mmyca ㏹ 
 mmjua ㏺ 
+mmjva ㏺ 
 mmhoa ㏻ 
 mmkna ㏼ 
 mmra  ㏽ 
@@ -200,6 +205,7 @@ wuyrf ㍜
 mmyrf ㍝ 
 ycyrf ㍞ 
 juyrf ㍟ 
+jvyrf ㍟ 
 hoyrf ㍠ 
 knyrf ㍡ 
 mryf ㍢ 
@@ -211,6 +217,7 @@ mwuf ㍦
 mmmf ㍧ 
 mycf ㍨ 
 mjuf ㍩ 
+mjvf ㍩ 
 mhof ㍪ 
 mknf ㍫ 
 mmryf ㍬ 
@@ -228,6 +235,7 @@ swus ㈣
 smms ㈤ 
 sycs ㈥ 
 sjus ㈦ 
+sjvs ㈦ 
 shos ㈧ 
 skns ㈨ 
 sjs  ㈩ 
