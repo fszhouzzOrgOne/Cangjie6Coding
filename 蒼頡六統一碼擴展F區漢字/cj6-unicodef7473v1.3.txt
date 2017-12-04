@@ -3220,6 +3220,8 @@
 2942 bsk 𭨭
 2943 blk 𭨮
 2944 bcms 𭨯
+2944 btjs 𭨯
+2944 btks 𭨯
 2945 btk 𭨰
 2946 bnln 𭨱
 2947 bann 𭨲
