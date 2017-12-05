@@ -4063,6 +4063,7 @@
 3735 erf 𭵆
 3736 puuf 𭵇
 3737 nisf 𭵈
+3737 nixf 𭵈
 3738 jsf 𭵉
 3739 fkbl 𭵊
 3740 ftyt 𭵋
