@@ -4208,6 +4208,8 @@
 3866 lsd 𭷉
 3867 llosl 𭷊
 3867 lsosl 𭷊
+3867 lloni 𭷊
+3867 lsoni 𭷊
 3868 llrup 𭷋
 3868 lsrup 𭷋
 3869 llolw 𭷌
