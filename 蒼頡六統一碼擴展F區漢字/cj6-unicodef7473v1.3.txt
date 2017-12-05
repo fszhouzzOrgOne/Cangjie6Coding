@@ -3835,6 +3835,7 @@
 3518 ebui 𭱭
 3519 hhoe 𭱮
 3520 ebsm 𭱯
+3520 ebsi 𭱯
 3521 eybd 𭱰
 3522 efhk 𭱱
 3523 eipp 𭱲
