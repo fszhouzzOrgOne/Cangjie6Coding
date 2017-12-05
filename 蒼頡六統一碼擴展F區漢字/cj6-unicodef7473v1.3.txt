@@ -4090,6 +4090,7 @@
 3759 ffbm 𭵞
 3760 firp 𭵟
 3761 tgef 𭵠
+3761 tqef 𭵠
 3762 fnnc 𭵡
 3763 sff 𭵢
 3764 dgf 𭵣
