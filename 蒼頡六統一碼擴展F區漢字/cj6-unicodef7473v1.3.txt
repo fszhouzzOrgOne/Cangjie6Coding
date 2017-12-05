@@ -3809,6 +3809,7 @@
 3495 epnp 𭱖
 3496 ebyt 𭱗
 3497 enbc 𭱘
+3497 ehsc 𭱘
 3498 eitb 𭱙
 3499 efbd 𭱚
 3500 eyus 𭱛
