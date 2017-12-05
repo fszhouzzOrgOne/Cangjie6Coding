@@ -130,8 +130,8 @@ rfbd ㊫
 rsmt ㊬ 
 rsit ㊬ 
 rox  ㊭ 
-eioc ㊮ 
-emoc ㊮ 
+rioc ㊮ 
+rmoc ㊮ 
 rjks ㊯ 
 ryok ㊰ 
 rhdh ㊙ 
