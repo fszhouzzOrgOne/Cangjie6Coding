@@ -4096,6 +4096,7 @@
 3764 dgf 𭵣
 3765 fmre 𭵤
 3766 fthb 𭵥
+3766 ftmb 𭵥
 3767 ddbf 𭵦
 3768 smf 𭵧
 3769 ftlq 𭵨
