@@ -4184,7 +4184,7 @@
 3844 ibhlo 𭶳
 3844 hbhlo 𭶳
 3845 bubm 𭶴
-3846 spbbe 𭶵
+3846 spbme 𭶵
 3847 mfhlo 𭶶
 3848 bxyiu 𭶷
 3849 mhdo 𭶸
