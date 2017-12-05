@@ -3716,6 +3716,7 @@
 3411 ehml 𭰂
 3412 eopd 𭰃
 3413 ehes 𭰄
+3413 eoks 𭰄
 3414 eoki 𭰅
 3414 eoyi 𭰅
 3415 ehnm 𭰆
