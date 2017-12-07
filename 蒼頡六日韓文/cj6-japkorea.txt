@@ -277,9 +277,11 @@ mllm ㅍ
 mo ㅈ
 momo ㅉ
 mmo ㅊ
+yo ㅊ
 o ㅅ
 oo ㅆ
 mmr ㅎ
+yr ㅎ
 lm ㄴ
 r  ㅁ
 r  ㅇ
