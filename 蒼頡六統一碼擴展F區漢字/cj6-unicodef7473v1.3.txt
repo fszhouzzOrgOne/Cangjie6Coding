@@ -5123,6 +5123,7 @@
 4634 hdqkq 𮃉
 4635 hdxlh 𮃊
 4635 hdxnh 𮃊
+4635 hdxfh 𮃊
 4636 hdubq 𮃋
 4637 hdpfd 𮃌
 4638 hdomk 𮃍
@@ -5308,6 +5309,7 @@
 4801 hqdt 𮅰
 4802 hmnp 𮅱
 4803 hoss 𮅲
+4803 hois 𮅲
 4803 hops 𮅲
 4804 hqhk 𮅳
 4804 hqik 𮅳
