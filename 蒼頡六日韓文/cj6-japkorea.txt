@@ -179,6 +179,7 @@ vlh ゆ
 yk よ
 kn ヤ
 sm ユ
+nm ユ
 sm ヨ
 kd ゃ
 vsh ゅ
@@ -186,6 +187,7 @@ vlh ゅ
 yk ょ
 kn ャ
 sm ュ
+nm ュ
 sm ョ
 ivs ら
 vl り
