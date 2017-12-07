@@ -4950,6 +4950,8 @@
 4535 ifrc 𮁦
 4536 mfbbm 𮁧
 4536 ifbbm 𮁧
+4536 mfbt 𮁧
+4536 ifbt 𮁧
 4537 hkmmf 𮁨
 4537 hcmmf 𮁨
 4538 mfhr 𮁩
