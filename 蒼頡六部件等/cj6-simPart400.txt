@@ -226,9 +226,8 @@ hh  ⺁
 mn  ⺂
 lu  ⺃
 vl  ⺃
-n  ⺄
-mn  ⺄
-mv  ⺄
+su  ⺄
+sv  ⺄
 hl  ⺅
 ls  ⺆
 hs  ⺆
@@ -321,6 +320,7 @@ lis  ⻔
 hrrr  ⻕
 nl  ⻖
 mlby  ⻗
+mz  ⻗
 qmb  ⻘
 qs  ⻙
 mbo  ⻚
@@ -362,6 +362,7 @@ iv  ㇃
 lm  ㇄
 sv  ㇅
 mn  ㇆
+sn  ㇆
 mn  ㇇
 su  ㇈
 vs  ㇉
