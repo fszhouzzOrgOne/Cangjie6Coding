@@ -5016,6 +5016,8 @@
 4569 ifxm 𮂈
 4570 mfykh 𮂉
 4570 ifykh 𮂉
+4570 mfyhh 𮂉
+4570 ifyhh 𮂉
 4571 mforw 𮂊
 4571 iforw 𮂊
 4572 mfmhf 𮂋
