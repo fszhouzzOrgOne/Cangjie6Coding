@@ -4941,6 +4941,8 @@
 4531 mfhqm 𮁢
 4532 ifosl 𮁣
 4532 mfosl 𮁣
+4532 ifoni 𮁣
+4532 mfoni 𮁣
 4533 jdmf 𮁤
 4534 mfih 𮁥
 4534 mfih 𮁥
