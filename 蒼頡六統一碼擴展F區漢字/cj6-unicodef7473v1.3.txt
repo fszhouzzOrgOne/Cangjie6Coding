@@ -6157,6 +6157,7 @@
 5586 tqsr 𮒁
 5587 tjem 𮒂
 5588 tmdx 𮒃
+5588 thddx 𮒃
 5589 trxl 𮒄
 5590 wltpd 𮒅
 5591 tblk 𮒆
