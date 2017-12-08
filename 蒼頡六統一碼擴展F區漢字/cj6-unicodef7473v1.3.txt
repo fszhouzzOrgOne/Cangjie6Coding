@@ -5950,6 +5950,7 @@
 5389 tsll 𮎼
 5390 tslv 𮎽
 5391 tmik 𮎾
+5391 timk 𮎾
 5392 tmkv 𮎿
 5393 tqme 𮏀
 5394 tmrp 𮏁
