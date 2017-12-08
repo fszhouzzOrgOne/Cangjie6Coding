@@ -5770,7 +5770,6 @@
 5226 ibk 𮌙
 5226 hbk 𮌙
 5227 bpox 𮌚
-5227 bpov 𮌚
 5228 ibgu 𮌛
 5229 obgce 𮌜
 5230 baph 𮌝
