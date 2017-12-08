@@ -6084,7 +6084,7 @@
 5516 timr 𮐻
 5517 tims 𮐼
 5518 tronr 𮐽
-5519 tmpt 𮐾
+5519 tmnt 𮐾
 5520 tdbb 𮐿
 5521 tjii 𮑀
 5522 ttzo 𮑁
