@@ -6504,6 +6504,7 @@
 5902 lymu 𮖽
 5903 lwrw 𮖾
 5904 mwoni 𮖿
+5904 mwosl 𮖿
 5905 mwhey 𮗀
 5905 mwhem 𮗀
 5906 mwkmi 𮗁
