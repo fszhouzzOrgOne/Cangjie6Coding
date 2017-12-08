@@ -6152,7 +6152,7 @@
 5581 thdi 𮑼
 5582 toov 𮑽
 5583 tdll 𮑾
-5584 tmfi 𮑿
+5584 tmbi 𮑿
 5585 trihr 𮒀
 5586 tqsr 𮒁
 5587 tjem 𮒂
