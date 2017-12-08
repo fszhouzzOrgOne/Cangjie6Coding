@@ -6556,8 +6556,8 @@
 5949 nbpa 𮗬
 5950 nbae 𮗭
 5951 oboq 𮗮
-5952 obhhv 𮗯
-5953 obmdr 𮗰
+5952 nbhhv 𮗯
+5953 nbmdr 𮗰
 5954 nbyit 𮗱
 5955 nbyiu 𮗲
 5956 nbapv 𮗳
