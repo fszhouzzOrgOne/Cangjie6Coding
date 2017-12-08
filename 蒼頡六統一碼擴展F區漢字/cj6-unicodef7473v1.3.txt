@@ -5856,6 +5856,7 @@
 5304 xyk 𮍧
 5305 fx 𮍨
 5306 mtxhu 𮍩
+5306 mjmju 𮍩
 5307 xcmg 𮍪
 5308 xnic 𮍫
 5309 xhbc 𮍬
