@@ -6079,6 +6079,7 @@
 5512 tnlh 𮐷
 5513 tvfn 𮐸
 5514 tnrf 𮐹
+5514 tmef 𮐹
 5515 tiht 𮐺
 5516 timr 𮐻
 5517 tims 𮐼
