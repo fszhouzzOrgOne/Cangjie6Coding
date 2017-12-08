@@ -5665,6 +5665,8 @@
 5127 hrtcv 𮊶
 5128 mmvn 𮊷
 5128 mmvq 𮊷
+5128 smwn 𮊷
+5128 smwq 𮊷
 5129 ssa 𮊸
 5130 lss 𮊹
 5131 chss 𮊺
