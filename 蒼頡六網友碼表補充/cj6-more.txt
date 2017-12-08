@@ -6,6 +6,10 @@ diti  𣒏
 ityu  𥆳
 ityv  𧚛
 rxiti 𨁕
+gis 𪢳
+yjs 㪲
+yms 㫇
+yys 㫇
 ams 昈
 bmm  ⺜
 ambg 𪱑
@@ -35,6 +39,7 @@ ksh  犭
 llsb  帰
 lxs 
 m ー
+mav  良
 mbrv 𠄢
 mbvm 𠄢
 mkr  啓
@@ -62,6 +67,7 @@ tlqo 𦰩
 tmbo 鿒
 tmz 鿓
 tovu 荒
+tsll 𠁬
 vlm  𡳿
 wcymf 𡮧
 wllk 𡚇

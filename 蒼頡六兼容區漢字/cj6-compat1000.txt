@@ -136,6 +136,7 @@ imyrf 凉
 ecd 梁
 fdamg 糧
 iav 良
+mav 良
 yryrf 諒
 amwg 量
 mtbks 勵
