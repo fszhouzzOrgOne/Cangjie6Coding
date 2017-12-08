@@ -6612,6 +6612,7 @@
 6002 yrtlk 𮘡
 6003 yrdbu 𮘢
 6004 yryid 𮘣
+6004 yryic 𮘣
 6005 lcymr 𮘤
 6006 yrukd 𮘥
 6007 yrbla 𮘦
