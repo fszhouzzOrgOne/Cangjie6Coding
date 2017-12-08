@@ -5971,7 +5971,7 @@
 5408 tcog 𮏏
 5409 tptc 𮏐
 5410 tjnp 𮏑
-5411 tlb 𮏒
+5411 tlbq 𮏒
 5412 tmdm 𮏓
 5413 tjtu 𮏔
 5414 tsrb 𮏕
