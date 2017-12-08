@@ -6682,6 +6682,7 @@
 6065 owlo 𮙠
 6066 bjmso 𮙡
 6067 imsqo 𮙢
+6067 ismko 𮙢
 6068 moahu 𮙣
 6069 momfu 𮙤
 6070 bso 𮙥
