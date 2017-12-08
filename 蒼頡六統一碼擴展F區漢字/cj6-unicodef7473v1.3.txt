@@ -6421,6 +6421,7 @@
 5826 ythv 𮕱
 5827 lbu 𮕲
 5828 lwc 𮕳
+5828 lwhu 𮕳
 5829 lopd 𮕴
 5830 hlav 𮕵
 5831 lolb 𮕶
