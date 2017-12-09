@@ -7866,6 +7866,7 @@
 7109 sqt 𮩴
 7110 sqlb 𮩵
 7111 sfvo 𮩶
+7111 sfno 𮩶
 7112 sfmvu 𮩷
 7113 sql 𮩸
 7114 sqfno 𮩹
