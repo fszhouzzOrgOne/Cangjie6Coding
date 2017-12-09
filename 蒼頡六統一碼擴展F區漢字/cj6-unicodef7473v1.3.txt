@@ -7531,6 +7531,7 @@
 6866 mgmjs 𮦁
 6866 mgmks 𮦁
 6867 odogd 𮦂
+6867 ogdd 𮦂
 6868 trgog 𮦃
 6869 mlbf 𮦄
 6870 mzlis 𮦅
