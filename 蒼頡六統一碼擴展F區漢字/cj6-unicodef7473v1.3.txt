@@ -7898,6 +7898,7 @@
 7139 sftlk 𮪒
 7140 sfort 𮪓
 7141 sfune 𮪔
+7141 sfmue 𮪔
 7142 sfmwd 𮪕
 7143 sfktc 𮪖
 7144 sforr 𮪗
