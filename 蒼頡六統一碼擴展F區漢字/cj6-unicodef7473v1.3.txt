@@ -8153,7 +8153,7 @@
 7378 detwa 𮮁
 7379 dethl 𮮂
 7380 qee 𮮃
-7381 qmems 𮮄
+7381 qemls 𮮄
 7382 qmeno 𮮅
 7383 qepru 𮮆
 7384 qeihq 𮮇
