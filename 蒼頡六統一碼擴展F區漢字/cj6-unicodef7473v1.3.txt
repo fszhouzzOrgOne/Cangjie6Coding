@@ -8200,6 +8200,7 @@
 7414 buxh 𮮥
 7415 grtok 𮮦
 7416 hygte 𮮧
+7416 hogte 𮮧
 7417 lpgte 𮮨
 7418 uegte 𮮩
 7419 jtbe 𮮪
