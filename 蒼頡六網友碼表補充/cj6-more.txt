@@ -13,8 +13,9 @@ yms 㫇
 yys 㫇
 #取oo的錯碼，官方pdf有取，這裡將錯就錯
 #𥶫字都相同，不列入
+oolu  睂
 oounl 𨞅
-oolmv 𡡚
+oolv  𡡚
 eoou  𣾨
 hoou  𥴔
 mgoou 𤩣
