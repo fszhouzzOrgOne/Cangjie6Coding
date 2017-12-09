@@ -7367,6 +7367,7 @@
 6710 crxr 𮣥
 6711 crrr 𮣦
 6712 cosd 𮣧
+6712 copd 𮣧
 6712 coid 𮣧
 6713 cjcv 𮣨
 6714 vfc 𮣩
