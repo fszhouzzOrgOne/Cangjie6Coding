@@ -6845,6 +6845,7 @@
 6219 rxhjg 𮛺
 6220 rxpib 𮛻
 6221 rxhoa 𮛼
+6221 rxhya 𮛼
 6222 rxybn 𮛽
 6222 rxybu 𮛽
 6223 rxyta 𮛾
