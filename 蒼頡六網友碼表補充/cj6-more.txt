@@ -6,10 +6,38 @@ diti  𣒏
 ityu  𥆳
 ityv  𧚛
 rxiti 𨁕
+#𠃍在下，都取尸，補充一些
 gis 𪢳
 yjs 㪲
 yms 㫇
 yys 㫇
+#取oo的錯碼，官方pdf有取，這裡將錯就錯
+#𥶫字都相同，不列入
+oounl 𨞅
+oolmv 𡡚
+eoou  𣾨
+hoou  𥴔
+mgoou 𤩣
+#第一種正確取法
+olmbu 睂
+olunl 𨞅
+olmbv 𡡚
+volu  𡡾
+uolu  𡼴
+eolu  𣾨
+mgolu 𤩣
+buolu 𥋎
+holu  𥴔
+#ombu 睂，第二種正確取法
+omunl 𨞅
+ombuv 𡡚
+vomu  𡡾
+uomu  𡼴
+eomu  𣾨
+mgomu 𤩣
+buomu 𥋎
+homu  𥴔
+#其他
 ams 昈
 bmm  ⺜
 ambg 𪱑
@@ -51,7 +79,6 @@ ns ㇡
 nso 豕
 obou 𠒯
 ogob 𨿇
-olmbu 睂
 ompno 钦
 onqd 𣔕
 opmrr 鿔
@@ -77,6 +104,7 @@ xkbt 𥂞
 ybhn  𠅙
 ymbuc 𧹂
 ylbuu 𬢆
+#以下是一些符號
 zzau ↑
 zzyp ˉ
 zzyq ˙
