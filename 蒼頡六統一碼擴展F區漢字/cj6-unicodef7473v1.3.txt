@@ -8218,9 +8218,13 @@
 7429 huwj 𮮴
 7430 hawj 𮮵
 7431 htpd 𮮶
+7431 hlpd 𮮶
 7432 htvif 𮮷
+7432 hlvif 𮮷
 7433 htnot 𮮸
+7433 hlnot 𮮸
 7434 htgbo 𮮹
+7434 hlgbo 𮮹
 7435 ysob 𮮺
 7436 ysos 𮮻
 7437 ysoa 𮮼
