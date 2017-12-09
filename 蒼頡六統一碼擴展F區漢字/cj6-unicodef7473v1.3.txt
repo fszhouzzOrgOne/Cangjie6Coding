@@ -8225,7 +8225,7 @@
 7433 hlnot 𮮸
 7434 htgbo 𮮹
 7434 hlgbo 𮮹
-7435 ysob 𮮺
+7435 ysvb 𮮺
 7436 ysos 𮮻
 7437 ysoa 𮮼
 7438 xoov 𮮽
@@ -8238,7 +8238,7 @@
 7445 xuhbr 𮯄
 7446 xuav 𮯅
 7447 xulnc 𮯆
-7447 xusk 𮯆
+7447 xusd 𮯆
 7447 xulf 𮯆
 7448 xuryo 𮯇
 7449 xumlo 𮯈
