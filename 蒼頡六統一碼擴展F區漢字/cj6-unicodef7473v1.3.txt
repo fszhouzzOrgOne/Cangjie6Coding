@@ -7187,7 +7187,9 @@
 6545 mwyhr 𮡀
 6546 mwlkc 𮡁
 6547 twihr 𮡂
+6547 cwihr 𮡂
 6548 twikm 𮡃
+6548 cwikm 𮡃
 6549 mwssp 𮡄
 6550 mwltd 𮡅
 6551 semcw 𮡆
