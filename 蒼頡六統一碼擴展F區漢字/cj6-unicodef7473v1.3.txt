@@ -7968,7 +7968,8 @@
 7205 lnfsu 𮫔
 7206 lnsqf 𮫕
 7207 uemmv 𮫖
-7207 ues 𮫖
+7207 uesm 𮫖
+7207 uesv 𮫖
 7208 dwhe 𮫗
 7209 xbuph 𮫘
 7210 tsbl 𮫙
