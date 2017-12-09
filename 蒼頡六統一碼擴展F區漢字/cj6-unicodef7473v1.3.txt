@@ -6762,6 +6762,7 @@
 6140 bcjpn 𮚫
 6141 gclst 𮚬
 6142 biogk 𮚭
+6142 bcogk 𮚭
 6143 bcbok 𮚮
 6144 ahbuc 𮚯
 6145 scscc 𮚰
