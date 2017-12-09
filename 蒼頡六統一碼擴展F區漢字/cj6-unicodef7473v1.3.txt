@@ -8156,6 +8156,7 @@
 7381 qemls 𮮄
 7382 qmeno 𮮅
 7383 qepru 𮮆
+7383 qepsu 𮮆
 7384 qeihq 𮮇
 7385 idd 𮮈
 7385 icd 𮮈
