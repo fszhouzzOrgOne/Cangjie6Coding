@@ -7301,6 +7301,7 @@
 6650 cmue 𮢩
 6651 cbun 𮢪
 6652 cthb 𮢫
+6652 ctmb 𮢫
 6653 cpmr 𮢬
 6654 cyhh 𮢭
 6654 cytt 𮢭
