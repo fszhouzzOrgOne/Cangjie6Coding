@@ -6698,7 +6698,7 @@
 6078 obuc 𮙭
 6079 bcdi 𮙮
 6080 bcho 𮙯
-6081 bcll 𮙰
+6081 bclll 𮙰
 6082 bucs 𮙱
 6083 fmbc 𮙲
 6084 bcqo 𮙳
