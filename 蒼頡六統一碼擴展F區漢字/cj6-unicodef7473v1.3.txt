@@ -7483,7 +7483,8 @@
 6820 nlnom 𮥓
 6821 nlmla 𮥔
 6822 nlibi 𮥕
-6823 nlrlp 𮥖
+6823 nlrlu 𮥖
+6823 nlrwu 𮥖
 6824 nltod 𮥗
 6825 nluie 𮥘
 6826 nlhlv 𮥙
