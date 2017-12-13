@@ -184,6 +184,7 @@ ryc ㊅
 rju ㊆ 
 rjv ㊆ 
 rho ㊇ 
+rc  ㊇ 
 rkn ㊈ 
 rj ㊉ 
 sms  ㈠ 
@@ -196,6 +197,7 @@ sycs ㈥
 sjus ㈦ 
 sjvs ㈦ 
 shos ㈧ 
+scs  ㈧ 
 skns ㈨ 
 sjs  ㈩ 
 wl   🀄 
