@@ -294,6 +294,7 @@ r    ㅁ
 r    ㅇ
 ir   ㅇ
 sv   ㄹ
+su   ㄹ
 vi   ᅀ
 oh   ᄼ
 oo   ᄽ
@@ -304,7 +305,9 @@ moo  ᅏ
 mo   ᅐ
 moo  ᅑ
 yo   ᅔ
+mmo  ᅔ
 yo   ᅕ
+mmo  ᅕ
 r    ᅌ
 ir   ᅌ
 sm   ᄐ
@@ -451,7 +454,7 @@ rum  ㉥
 ro   ㉦
 rr   ㉧
 rmo  ㉨
-rmo  ㉩
+rmmo ㉩
 ryo  ㉩
 rsm  ㉪
 rsm  ㉫
