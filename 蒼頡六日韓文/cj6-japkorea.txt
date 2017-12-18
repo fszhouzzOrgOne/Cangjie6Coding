@@ -349,7 +349,7 @@ rhi  ㋩
 rvh  ㋪
 ruh  ㋪
 rp   ㋪
-rn   ㋫
+rmn  ㋫
 rn   ㋫
 rmo  ㋬
 ro   ㋬
