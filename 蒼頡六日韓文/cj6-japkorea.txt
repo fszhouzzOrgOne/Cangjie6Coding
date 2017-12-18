@@ -89,6 +89,7 @@ nv   て
 is   と
 ls   と
 he   タ
+ni   タ
 hk   チ
 ic   ツ
 mm   テ
@@ -101,6 +102,7 @@ nvy  で
 isy  ど
 lsy  ど
 hey  ダ
+niy  ダ
 hky  ヂ
 icy  ヅ
 fy   ヅ
@@ -127,6 +129,7 @@ vmjk ほ
 ho   ハ
 hi   ハ
 vh   ヒ
+uh   ヒ
 mn   フ
 mo   ヘ
 dc   ホ
@@ -143,6 +146,7 @@ hoy  バ
 hiy  バ
 py   ビ
 vhy  ビ
+uhy  ビ
 ny   ブ
 mny  ブ
 oy   ベ
@@ -161,6 +165,7 @@ hor  パ
 hir  パ
 pr   ピ
 vhr  ピ
+uhr  ピ
 nr   プ
 mnr  プ
 or   ペ
@@ -331,6 +336,7 @@ rpn  ㋝
 rc   ㋞
 rih  ㋞
 rni  ㋟
+rhe  ㋟
 rhk  ㋠
 ric  ㋡
 rf   ㋡
