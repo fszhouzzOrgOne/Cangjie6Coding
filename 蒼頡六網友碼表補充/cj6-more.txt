@@ -78,7 +78,11 @@ ymbuc 𧹂
 ylbuu 𬢆
 ymbuu 𬢆
 yof   㸂
-# 擴展F區遺漏
+# 擴展A區遺漏
+liavf 䗾
+# C區
+omv   𪜨
+# F區
 jli  𬺿
 nmsm 𬻆
 slmm 𬻈
