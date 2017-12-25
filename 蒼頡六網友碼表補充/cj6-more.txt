@@ -26,8 +26,7 @@ vomu  𡡾
 uomu  𡼴
 buomu 𥋎
 homu  𥴔
-#其他
-bmm   ⺜
+#其他漢字區
 ambg  𪱑
 cwa   曾
 ebky  𬉝
@@ -39,7 +38,6 @@ hf    爫
 hog   坕
 hoyhv 𧙍
 hxu   龜
-i     、
 iiso  辶
 inf   礻
 jook  𠁊
@@ -52,9 +50,7 @@ mav  良
 mbrv 𠄢
 mbvm 𠄢
 mkr  啓
-ni   々
 nmxc 𫝖
-ns   ㇡
 obou 𠒯
 ogob 𨿇
 ompno 钦
@@ -82,6 +78,13 @@ ymbuc 𧹂
 ylbuu 𬢆
 ymbuu 𬢆
 yof   㸂
+# 中日韓筆畫部件區（可不管）
+ns   ㇡
+# 中日韓符號和標點區（可以不管）
+i     、
+ni   々
+# 中日韓部首補充區（可以不管）
+bmm   ⺜
 # 私用區的字
 annsd 
 anoog 
