@@ -78,6 +78,11 @@ ymbuc 𧹂
 ylbuu 𬢆
 ymbuu 𬢆
 yof   㸂
+# 擴展F區遺漏
+jli  𬺿
+nmsm 𬻆
+slmm 𬻈
+jvs  𬻒
 # 中日韓筆畫部件區（可不管）
 ns   ㇡
 # 中日韓符號和標點區（可以不管）
