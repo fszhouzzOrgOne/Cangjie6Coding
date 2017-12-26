@@ -632,13 +632,15 @@ lg   
 js   
 sd   
 sd   
+ds   
+hss   
 hps   
 hh   
 hv   
 mv   
 hv   
 uo   
-ljl   
+jll   
 vv   
 fbf   
 mn   
@@ -664,7 +666,7 @@ jcoe   
 woo   
 wc   
 wf   
-wii   
+wiki   
 lmni   
 lwo   
 lwk   
@@ -678,7 +680,7 @@ twlb   
 twlb   
 jjo   
 jt   
-jj   
+tt   
 tm   
 cmm   
 tm   
@@ -735,6 +737,7 @@ mc   
 kvsd   
 mv   
 qll   
+qhl   
 jbh   
 ys   
 ysf   
