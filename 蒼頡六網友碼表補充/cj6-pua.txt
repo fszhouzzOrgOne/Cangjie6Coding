@@ -434,7 +434,7 @@ wni   
 hs   
 iah   
 vsm   
-lss   
+lmls   
 llms   
 llml   
 bo   
@@ -453,8 +453,8 @@ qj   
 tt   
 tt   
 by   
-b   
-bmb   
+bii   
+bmm   
 bi   
 bm   
 ni   
