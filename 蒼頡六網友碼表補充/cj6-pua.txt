@@ -891,6 +891,7 @@ tqm   
 tghm   
 xp   
 hupm   
+hupi   
 rhg   
 rmg   
 on   
@@ -1009,6 +1010,7 @@ rxkt   
 rxmzb   
 kqhup   
 kqtcw   
+kqcmw   
 ya   
 sdinl   
 hhonl   
