@@ -1,7 +1,7 @@
 m  ⼀
 l  ⼁
 i  ⼂
-l  ⼃
+h   ⼃
 nu  ⼄
 li  ⼅
 mm  ⼆
@@ -375,7 +375,7 @@ o  ㇏
 m  ㇐
 l  ㇑
 h  ㇒
-l  ㇓
+h  ㇓
 i  ㇔
 ml  ㇕
 mn  ㇖
