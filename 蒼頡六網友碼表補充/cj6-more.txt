@@ -117,10 +117,10 @@ mmc ☴
 cmc ☵
 mcc ☶
 ccc ☷
-tm ☱
-mt ☲
-ct ☳
-tc ☵
+tm  ☱
+mt  ☲
+ct  ☳
+tc  ☵
 sms   ㈠
 smms  ㈡
 smms  ㈢
