@@ -268,6 +268,8 @@ za ■
 za □
 za ▲
 za △
+za ▽
+za ▼
 za ◆
 za ◇
 za ○
