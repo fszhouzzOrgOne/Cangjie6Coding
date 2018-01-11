@@ -29,6 +29,7 @@ homu  𥴔
 #其他漢字區
 ambg  𪱑
 cwa   曾
+ds    𣎺
 ebky  𬉝
 ehsk  涙
 ewfg  濹
