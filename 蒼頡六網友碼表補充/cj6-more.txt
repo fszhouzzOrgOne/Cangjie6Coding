@@ -28,6 +28,7 @@ buomu 𥋎
 homu  𥴔
 #其他漢字區
 ambg  𪱑
+bx    𠕄
 cwa   曾
 ds    𣎺
 ds    𠀟
