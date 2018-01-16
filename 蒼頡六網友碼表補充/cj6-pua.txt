@@ -443,7 +443,7 @@ bc   
 be   
 bt   
 mc   
-jj   
+kj   
 tj   
 tj   
 ktp   
@@ -476,7 +476,7 @@ ah   
 mqj   
 mq   
 jj   
-jj   
+jk   
 jn   
 sm   
 li   
