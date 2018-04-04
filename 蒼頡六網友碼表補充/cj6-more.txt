@@ -78,6 +78,8 @@ smmnl 𨚑
 smmu  𡵽
 sn    𠃌
 su    已
+# 䕎字有作日字的
+tamw  䕎
 tmz   鿓
 tsll  𠁬
 vl    乚
