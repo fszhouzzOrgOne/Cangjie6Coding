@@ -72,6 +72,8 @@ qmb   靑
 qms   𫠤
 rykk  𠲲
 seooo 聚
+# 𢑱字形多作彑頭
+rmfk  𢑱
 sk    刃
 smm   𠀌
 smmnl 𨚑
