@@ -99,6 +99,7 @@ ylbuc 𧹂
 ymbuc 𧹂
 ylbuu 𬢆
 ymbuu 𬢆
+# 按官方pdf，遂作字首，道字同理，如導
 yof   㸂
 yof   鿪
 # 擴展A區遺漏
