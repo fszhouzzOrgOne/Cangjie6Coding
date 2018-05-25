@@ -60763,6 +60763,7 @@ opndt   锰
 opneg   铤
 opneq   键
 opnex   𮣴
+opnf   鿭
 opng   钮
 opnhe   钑
 opnhh   钖
