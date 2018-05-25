@@ -1,6 +1,6 @@
 # 來源雪齋的GitHub項目: https://github.com/LEOYoon-Tsaw/Cangjie6.git
 # 碼表： cangjie6.dict.yaml
-# 截止時間： 2017年12月16日
+# 截止時間： 2018年03月22日
 # 三個褈複的，在最後
 a   日
 a   曰
@@ -25014,6 +25014,7 @@ hhoe   𭱮
 hhoep   𢤂
 hhof   𥡁
 hhof   𥟖
+hhofd   鿯
 hhofd   𮇵
 hhog   𨿯
 hhog   𥯂
@@ -34365,6 +34366,7 @@ ithn   𢈐
 ithn   𠙥
 itho   𢉭
 ithz   鴘
+itjb   鿮
 itk   𢈒
 itkr   𢉳
 itlb   席
@@ -50621,6 +50623,7 @@ mrvvw   𥓲
 mrvvw   𥔥
 mrvvx   𥓱
 mrw   畐
+mrw   鿬
 mrwc   𫪸
 mrwcl   𥔅
 mrwcm   𮁓
@@ -59995,6 +59998,7 @@ ongn   侴
 ongsk   𪵧
 onh   仍
 onh   氕
+onhbk  鿫
 onhd   𪜷
 onhe   伋
 onhem   氡
