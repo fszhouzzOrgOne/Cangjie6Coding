@@ -50,8 +50,13 @@ hog   坕
 hoyhv 𧙍
 hnmz  鳳
 hxu   龜
+# 䑮字，按UCS字形从朶，按GB18030-2000/2005从朵
+hyhnd 䑮
 iiso  辶
 inf   礻
+# 𠘤字，按UCS字形上凝下氷，按其他字形可能作左冫、右上疑下氷
+ioie  𠘤
+moie  𠘤
 jook  𠁊
 jv    𫠠
 llsb  帰
@@ -84,8 +89,11 @@ smmnl 𨚑
 smmu  𡵽
 sn    𠃌
 su    已
-# 䕎字有作日字的
+# 䕎字，按UCS字形从日，按GB18030-2000/200从目
 tamw  䕎
+# 䕈字，按UCS字形从片，按GB18030-2000/2005，从爿
+tlld  䕈
+tlsd  䕈
 tmz   鿓
 tsll  𠁬
 vl    乚
