@@ -93,11 +93,19 @@ sn    𠃌
 su    已
 # 䕎字，按UCS字形从日，按GB18030-2000/200从目
 tamw  䕎
+# 同理𧹘字
+tij   𠂀
+ty    𠂀
+# 𭀤 字取tlhu不對，同理𧹘字，又參考発字。
+tkpc  𭀤
 # 䕈字，按UCS字形从片，按GB18030-2000/2005，从爿
 tlld  䕈
 tlsd  䕈
 tmz   鿓
 tsll  𠁬
+# 不可以破壞交叉的特徵，如干取一十；「冓-冉」不取龷ㅛ，取艹龷；丰取手十。
+# 又「亦-亠」是「片」的根。官方pdf也取ttz。（多謝ArtherMcarther指出）
+ttz   𧹘
 vl    乚
 vlm   𡳿
 wcymf 𡮧
