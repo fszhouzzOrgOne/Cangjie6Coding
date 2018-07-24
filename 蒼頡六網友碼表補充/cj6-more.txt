@@ -122,6 +122,9 @@ tsll  𠁬
 # 不可以破壞交叉的特徵，如干取一十；「冓-冉」不取龷ㅛ，取艹龷；丰取手十。
 # 又「亦-亠」是「片」的根。官方pdf也取ttz。（多謝ArtherMcarther指出）
 ttz   𧹘
+# 𠀫、𠀪字，依官方pdf改正
+tzh   𠀫
+tzi   𠀪
 vl    乚
 vlm   𡳿
 wcymf 𡮧
@@ -140,7 +143,8 @@ ymbuu 𬢆
 # 按官方pdf，遂作字首，道字同理，如導
 yof   㸂
 yof   鿪
-# 擴展A區遺漏
+# 擴展區遺漏的字
+# A區
 liavf 䗾
 # C區
 omv   𪜨
