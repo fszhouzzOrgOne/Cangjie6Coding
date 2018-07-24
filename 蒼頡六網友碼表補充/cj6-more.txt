@@ -3,6 +3,20 @@ gis 𪢳
 yjs 㪲
 yms 㫇
 yys 㫇
+# 倒字，可以用「片」作末尾表示倒字。（ArtherMcarther 問過官方得知）
+# 六代官方pdf中有𠄏𠄔𣥒等字的編碼，其他字依例補加，E區爲止
+nnz   𠄏
+vinnz 𢆴
+nzz   𠄔
+yzbuc 𧹂
+yzbuu 𬢆
+irzye 𣀨
+oirz  𠐲
+irmb  𧥑
+irmf  𤒓
+irmf  𤒉
+irmz  𢨋
+xzx   𣥒
 #取oo的錯碼，官方pdf有取，這裡將錯就錯
 #𥶫字都相同，不列入
 oolu  睂
