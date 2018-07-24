@@ -27,6 +27,8 @@ uomu  𡼴
 buomu 𥋎
 homu  𥴔
 #其他漢字區
+# 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
+alry  𠘀
 ambg  𪱑
 # 查無出處，按三代猜測的編法
 blxk  𦥼
