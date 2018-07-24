@@ -40,6 +40,13 @@ vomu  𡡾
 uomu  𡼴
 buomu 𥋎
 homu  𥴔
+# 𦦊字按官方pdf，取xm開頭，依之改幾個字
+xmwks 𦦊
+hjxm  𦥫
+hsxm  𦥢
+nxm   𦥢
+tuxm  𦥾
+ojvx  𦦓
 #其他漢字區
 # 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
 alry  𠘀
@@ -88,6 +95,8 @@ nmxc 𫝖
 nz   𩰲
 obou 𠒯
 ogob 𨿇
+ohbh  𪝹
+oibh  𪝹
 # 輔助字根亼，不能跨越字首字身取
 oml  𠇭
 omli  𫝇
