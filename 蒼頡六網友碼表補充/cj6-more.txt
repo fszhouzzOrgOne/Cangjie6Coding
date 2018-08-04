@@ -170,6 +170,21 @@ i     、
 ni   々
 # 中日韓部首補充區（可以不管）
 bmm   ⺜
+# 蘇州碼子
+l    〡
+ll   〢
+lll  〣
+ho   〤
+vk   〥
+lm   〦
+lmm  〧
+lmmm 〨
+le   〩
+y    〦
+ym   〧
+ymm  〨
+ok   〩
+ie   〩
 #以下是一些符號
 mm  ⚋
 m   ⚊
