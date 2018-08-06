@@ -52,3 +52,51 @@ xmwks 𦦊
 hjxm  𦥫
 ohbh  𪝹
 oibh  𪝹
+
+ArtherMcarther 2018.8.6
+三代原更新說明：
+重新校對了E區。
+在與官方交流後，新增了一批難字，如「𦉭」取為「口難山」等，
+並且亦引入Z鍵來編碼「反字」，與「倒字」的規則統一。
+例：「𫸪」取「弓弓片」，「𠄏」亦取「弓弓片」。
+我收集到的反字有「𨞰𨛜𨞠𨙨𫸪」，你可以比照着倒字改码。
+还有「𫥮𫯆𬲈」共同所含的部件，官方回答作字身可取「戈人金」
+# 引入Z鍵來編碼「反字」
+rzhpu 𨞰
+rzrau 𨛜
+rztcu 𨞠
+rauz  𨙨
+nnz   𫸪
+# 容錯加些
+szsll 臦
+slslz 𦣩
+# 𫥮𫯆𬲈，共同所含的部件，官方回答作字身可取「戈人金」
+yuioc 𫥮
+icgah 𫯆
+hnioc 𬲈
+# 原編碼尸尸的字，改爲月，如黽
+blu   𦉭
+# 按官方pdf，𠃚字取sss，𠃬取ssss，𧦮字取yrsse，𢎧字取ssn。
+# 其他字，查改一些。𧅍𧂘，網友取jr開頭，也改正下，另加trr開頭的。
+esss  𣵬
+hosse 𤓷
+ifssm 𥙥
+ifsss 𥙸
+jrssk 𧅍
+jrssk 𧂘
+mfssm 𥙥
+mfsss 𥙸
+rrssk 𤕦
+rrssk 𡄉
+sshne 𣪐
+ssn   𢎧
+sss   𠃚
+ssse  𡕪
+ssse  𠭵
+ssss  𠃬
+trrk  𧅍
+trrk  𧂘
+tssk  𦷠
+yrsse 𧦮
+# 其他
+ssls  𪟭
