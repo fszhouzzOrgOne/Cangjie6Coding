@@ -62,12 +62,12 @@ ArtherMcarther 2018.8.6
 我收集到的反字有「𨞰𨛜𨞠𨙨𫸪」，你可以比照着倒字改码。
 还有「𫥮𫯆𬲈」共同所含的部件，官方回答作字身可取「戈人金」
 # 按ArtherMcarther，引入Z鍵來編碼「反字」
+# 反字如臦𦣩，加容錯
 rzhpu 𨞰
 rzrau 𨛜
 rztcu 𨞠
 rauz  𨙨
 nnz   𫸪
-# 容錯加些
 szsll 臦
 slslz 𦣩
 # 按ArtherMcarther言“𫥮𫯆𬲈，共同所含的部件，官方回答作字身可取「戈人金」
