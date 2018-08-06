@@ -293,6 +293,7 @@ lm   ㄴ
 r    ㅁ
 r    ㅇ
 ir   ㅇ
+ss   ㄹ
 sv   ㄹ
 su   ㄹ
 vi   ᅀ
