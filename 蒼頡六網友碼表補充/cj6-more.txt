@@ -110,6 +110,7 @@ gyoln 𧺈
 hf    爫
 hog   坕
 hoyhv 𧙍
+hnhii 𮕕
 hnmz  鳳
 hxu   龜
 # 䑮字，按UCS字形从朶，按GB18030-2000/2005从朵
