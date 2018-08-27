@@ -89,6 +89,8 @@ yrsse 𧦮
 # 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
 alry  𠘀
 ambg  𪱑
+# 參見㤲字，及麥字取kohe，十人可能取作大字根了，作字首。
+bkoh  𦟬
 blu   𦉭
 # 查無出處，按三代猜測的編法
 blxk  𦥼
@@ -122,6 +124,8 @@ ioie  𠘤
 moie  𠘤
 jook  𠁊
 jv    𫠠
+# 㤲字官方PDF取kop。 ArtherMcarther指出： 以人与下分离可以当字首
+kop   㤲
 llsb  帰
 lqmt  䀌
 luoz  頫
