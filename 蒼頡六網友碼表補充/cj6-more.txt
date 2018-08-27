@@ -149,6 +149,8 @@ ompno 钦
 onmgi 㺸
 opy   铲
 pywv  懐
+# 三疊字，六代規則化。按官方pdf，取qdqdd。
+qdqdd 䆐
 qmb   靑
 qms   𫠤
 rykk  𠲲
