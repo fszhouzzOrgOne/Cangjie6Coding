@@ -71,6 +71,8 @@ ifssm 𥙥
 ifsss 𥙸
 jrssk 𧅍
 jrssk 𧂘
+jsjrk 𧅍
+jsjrk 𧂘
 mfssm 𥙥
 mfsss 𥙸
 rrssk 𤕦
@@ -85,7 +87,27 @@ trrk  𧅍
 trrk  𧂘
 tssk  𦷠
 yrsse 𧦮
+# 六代十鍵中的字根，如“𪧇-丆”或“𪧇+（夢-冖夕）”，都取一碼：十
+jbsb  㝲
+jbhd  𡬒
+jbfd  𡬍
+jbse  𡬓
+jbe   𡫺
+jbe   𡬄 
+jbff  𡬖
+jbmf  𡬇
+jbhk  𡬊
+jbni  㝱
+jbbn  𡬙
+jbmr  𡬑
+jbbu  𡬌
+jbv   𡫽
+jmbi  𫳻
+jmmw  𫳼
+jmqx  𫴛
+###############
 #其他漢字區
+###############
 # 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
 alry  𠘀
 ambg  𪱑
@@ -166,10 +188,10 @@ ssls  𪟭
 su    已
 # 䕎字，按UCS字形从日，按GB18030-2000/200从目
 tamw  䕎
-# 同理𧹘字
+# 同理 𧹘 字
 tij   𠂀
 ty    𠂀
-# 𭀤 字取tlhu不對，同理𧹘字，又參考発字。
+# 𭀤 字取tlhu不對，同理 𧹘 字，又參考発字。
 tkpc  𭀤
 # 䕈字，按UCS字形从片，按GB18030-2000/2005，从爿
 tlld  䕈
