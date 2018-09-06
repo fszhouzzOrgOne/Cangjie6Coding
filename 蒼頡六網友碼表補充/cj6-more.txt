@@ -124,6 +124,8 @@ cwa   曾
 ds    𣎺
 ds    𠀟
 ebky  𬉝
+# 理同 𧹘発
+eeep  𠭌
 ehsk  涙
 ewfg  濹
 fdmav 粮
