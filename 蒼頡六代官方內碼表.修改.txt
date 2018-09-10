@@ -1,43 +1,43 @@
 日 a
 昌 aa
 晶 aaa
-&~aaaa; aaaa
-&~aaaa1; aaaa1
+𣊭 aaaa
+𣊫 aaaa
 曑 aaah
 曡 aaam
-曐 aaam1
-㬪 aaam2
+曐 aaam
+㬪 aaam
 &~aaam3; aaam3
 曟 aaav
-晿 aaa1
+晿 aaa
 &~aabdd; aabdd
 㬈 aabt
 覸 aabuu
-&~aad; aad
+𣈁 aad
 焸 aaf
-&~aafu; aafu
+𭧌 aafu
 暒 aahm
 㫀 aahml
-&~aahu; aahu
+𣈲 aahu
 &~aahu1; aahu1
-&~aahz; aahz
+𪂇 aahz
 暥 aajv
 &~aajv1; aajv1
 㫜 aam
-&~aamg; aamg
+𤦉 aamg
 &~aamgi; aamgi
 暘 aamh
-&~aami; aami
+𣈜 aami
 晘 aamj
-&~aamo; aamo
+𣉆 aamo
 㫯 aamu
-&~aamv; aamv
+𣊐 aamv
 &~aam1; aam1
-&~aana; aana
-&~aang; aang
+𣊺 aana
+𣋆 aang
 &~aank; aank
-&~aano; aano
-&~aap; aap
+𣣘 aano
+𢛝 aap
 晹 aaph
 &~aapp; aapp
 暍 aapv
@@ -5089,7 +5089,8 @@
 &~chqy; chqy
 &~chrau; chrau
 鎢 chrf
-鈩 chs chs &~chsb; chsb
+鈩 chs chs
+&~chsb; chsb
 鍽 chsb1
 &~chsf; chsf
 銵 chsh
@@ -7328,7 +7329,7 @@
 枦 dhs
 楄 dhsb
 &~dhsb1; dhsb1
-&~dhsb2;　dhsb2
+&~dhsb2; dhsb2
 &~dhsc; dhsc
 &~dhsd; dhsd
 &~dhsg; dhsg
@@ -8104,7 +8105,7 @@
 &~doeno; doeno
 &~doeog; doeog
 &~doeok; doeok
-&~doeye;　doeye
+&~doeye; doeye
 &~dof; dof
 检 dofm
 椎 dog
@@ -17400,7 +17401,8 @@
 &~hig; hig
 䰫 higgu
 &~higgy; higgy
-&~hig1;　hig1 xhig &~hihb; hihb
+&~hig1; hig1
+&~hihb; hihb
 &~hihby; hihby
 簾 hihc
 &~hihd; hihd
@@ -19371,7 +19373,7 @@
 &~hqrmk; hqrmk
 頶 hqrmz
 郜 hqrnl
-䧼　hqrog
+䧼 hqrog
 &~hqrok; hqrok
 箉 hqrs
 犌 hqrse
@@ -30558,7 +30560,7 @@
 㫘 mfa
 &~mfaa; mfaa
 &~mfab; mfab
-&~mfad;　mfad
+&~mfad; mfad
 &~mfahu; mfahu
 &~mfam; mfam
 禓 mfamh
@@ -30619,7 +30621,7 @@
 &~mfdi; mfdi
 &~mfdi1; mfdi1
 &~mfdj; mfdj
-&~mfdk;　mfdk
+&~mfdk; mfdk
 &~mfdl; mfdl
 䄤 mfdlc
 &~mfdln; mfdln
@@ -30766,7 +30768,7 @@
 &~mfjp; mfjp
 祜 mfjr
 &~mfjtf; mfjtf
-&~mfjto;　mfjto
+&~mfjto; mfjto
 &~mfjv; mfjv
 &~mfjwi; mfjwi
 &~mfjwp; mfjwp
@@ -30954,7 +30956,7 @@
 &~mfrrw; mfrrw
 &~mfrsj; mfrsj
 祀 mfru
-&~mfruc;　mfruc
+&~mfruc; mfruc
 &~mfrvb; mfrvb
 祦 mfrvk
 祲 mfsbe
@@ -30970,7 +30972,7 @@
 &~mfskq; mfskq
 &~mfskr; mfskr
 &~mfsl; mfsl
-&~mfsmi;　mfsmi
+&~mfsmi; mfsmi
 祠 mfsmr
 &~mfsmt; mfsmt
 禡 mfsqf
@@ -30982,7 +30984,7 @@
 &~mfsv; mfsv
 &~mft; mft
 䄍 mfta
-&~mftak;　mftak
+&~mftak; mftak
 &~mftbc; mftbc
 &~mftbi; mftbi
 &~mftc; mftc
@@ -35553,7 +35555,8 @@
 酢 mwos
 &~mwosl; mwosl
 䩆 mwos1
-&~mwos2; mwos2 &~mwowt; mwowt
+&~mwos2; mwos2
+&~mwowt; mwowt
 酶 mwowy
 䩈 mwow1
 䣥 mwp
@@ -43719,7 +43722,7 @@
 &~ostge; ostge
 餻 ostgf
 饈 ostgg
-&~ostgi;　ostgi
+&~ostgi; ostgi
 &~ostgk; ostgk
 &~ostgm; ostgm
 䭐 ostgp
@@ -43823,7 +43826,7 @@
 餏 osyhv
 &~osyia; osyia
 &~osyib; osyib
-&~osyiu;　osyiu
+&~osyiu; osyiu
 &~osyiv; osyiv
 &~osyjj; osyjj
 &~osyjr; osyjr
@@ -66414,7 +66417,7 @@
 &~xzaf; xzaf
 &~xzag; xzag
 &~xzah; xzah
-　xzai
+&~xzai; xzai
 &~xzb; xzb
 &~xzba; xzba
 &~xzbb; xzbb
@@ -71301,13 +71304,13 @@
 孪 yznd
 亪 yzo
 脔 yzob
-&~yzoe; yzoe
-&~yzok; yzok
+𣷖 yzoe
+𢼜 yzok
 恋 yzp
-&~yzpp; yzpp
-&~yzp1; yzp1
+𢣫 yzpp
+𢥹 yzp
 挛 yzq
-&~yzro; yzro
+𨀶 yzro
 弈 yzt
 峦 yzu
 娈 yzv
