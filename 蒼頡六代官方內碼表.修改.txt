@@ -5089,7 +5089,7 @@
 &~chqy; chqy
 &~chrau; chrau
 鎢 chrf
-鈩 chs chs
+鈩 chs
 &~chsb; chsb
 鍽 chsb1
 &~chsf; chsf
@@ -54529,7 +54529,8 @@
 &~sslb; sslb
 &~sslbu; sslbu
 螶 ssli
-&~sslii; sslii smlii䎈 sslp
+&~sslii; sslii
+䎈 sslp
 &~sslwp; sslwp
 羾 ssm
 &~ssmb; ssmb
@@ -69928,7 +69929,8 @@
 詨 yryck
 譢 yryco
 謪 yrycr
-&~yrycu; yrycu yrydu䜇 yrycv
+𧭼 yrycu
+䜇 yrycv
 譲 yryc1
 &~yryc2; yryc2
 譈 yrydk
