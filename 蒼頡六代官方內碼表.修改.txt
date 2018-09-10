@@ -1,5 +1,6 @@
-#sslii，yrycu，chs，hig1，mwos2五行，有兩個字擠在一行
+#sslii，yrycu，chs，hig1，mwos2五行，原有兩個字擠在一行
 #蒼頡六代內碼表，實際共71320行
+#版本號20180911
 日 a
 昌 aa
 晶 aaa
