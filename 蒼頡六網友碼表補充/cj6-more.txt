@@ -120,6 +120,7 @@ blxk  𦥼
 bmll  𠕲
 bumlc 𥄙
 bx    𠕄
+cmso  㒸
 cwa   曾
 ds    𣎺
 ds    𠀟
@@ -203,9 +204,11 @@ tsll  𠁬
 # 不可以破壞交叉的特徵，如干取一十；「冓-冉」不取龷ㅛ，取艹龷；丰取手十。
 # 又「亦-亠」是「片」的根。官方pdf也取ttz。（多謝ArtherMcarther指出）
 ttz   𧹘
+tvvv  𦭺
 # 𠀫、𠀪字，依官方pdf改正
 tzh   𠀫
 tzi   𠀪
+uuvuu 𦱠
 vl    乚
 vlm   𡳿
 wcymf 𡮧
