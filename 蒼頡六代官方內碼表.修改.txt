@@ -71298,13 +71298,13 @@
 変 yzhe
 鸾 yzhm
 鵉 yzhz
-&~yzhz1; yzhz1
+𪁂 yzhz
 奕 yzk
-&~yzko; yzko
+𡙩 yzko
 帟 yzlb
 蛮 yzli
-&~yzmf; yzmf
-&~yzmun; yzmun
+𬒵 yzmf
+#⿰亦瓦 yzmun
 弯 yzn
 孪 yznd
 亪 yzo
@@ -71319,5 +71319,5 @@
 弈 yzt
 峦 yzu
 娈 yzv
-&~yzwd; yzwd
+#⿳亦回米 yzwd
 𠅯 yzyz
