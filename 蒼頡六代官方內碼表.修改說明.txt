@@ -1,0 +1,13 @@
+#sslii，yrycu，chs，hig1，mwos2五行，原有兩個字擠在一行
+#蒼頡六代內碼表，實際共71320行
+#版本號20180911
+abtnl 用𨜵
+agli/aglk 都用𣊎
+ajtm/ajty 都用𠘗
+aneat 用𨷇
+anhbs 中的龜取碼陸標hbss
+anhh 用䦕
+anhkn/anhkn 都用𨷋
+anifu/anmfu 都用𨶳
+anikf 用䦱
+anhgr/anhqr 用𨴬
