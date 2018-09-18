@@ -112,6 +112,7 @@ jmqx  𫴛
 ahumz 眉頁
 #有的字體沒有點
 aje   𭥢
+alo   𬀲
 # 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
 alry  𠘀
 ambg  𪱑
