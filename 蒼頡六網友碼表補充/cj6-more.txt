@@ -320,6 +320,7 @@ fbks  ㈸
 oip   ㈹
 rhfd  ㈺
 fbnd  ㈻
+xbnd  ㈻
 smbt  ㈼
 sibt  ㈼
 ox    ㈽
@@ -334,6 +335,7 @@ anr   ㉄
 viks  ㉅
 yk    ㉆
 hbsd  ㉇
+hnsd  ㉇
 m     ㊀
 mm    ㊁
 mmm   ㊂
@@ -363,6 +365,7 @@ bcdh  ㊖
 ifrhu ㊗
 mfrhu ㊗
 fbks  ㊘
+ffbks ㊘
 hdph  ㊙
 wks   ㊚
 v     ㊛
@@ -373,6 +376,7 @@ eyg   ㊟
 mmz   ㊠
 od    ㊡
 bysm  ㊢
+jxpf  ㊢
 mx    ㊣
 ym    ㊤
 l     ㊥
@@ -380,8 +384,10 @@ my    ㊦
 km    ㊧
 kr    ㊨
 sok   ㊩
+semcw ㊩
 jmmf  ㊪
 fbnd  ㊫
+xbnd  ㊫
 sibt  ㊬
 smbt  ㊬
 ox    ㊭
@@ -409,8 +415,11 @@ lwl   🈸
 or    🈴 
 jcm   🈳 
 fbrr  🈺 
-fbrhr 🈺 
+fbrhr 🈺  
+ffbrr 🈺 
 etub  🈵 
+etlb  🈵 
+etmb  🈵 
 # Z鍵符號
 za ‘
 za ’
