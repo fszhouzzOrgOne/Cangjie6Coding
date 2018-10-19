@@ -175,6 +175,7 @@ obou 𠒯
 ogob 𨿇
 ohbh  𪝹
 oibh  𪝹
+omfp  𢚒
 # 輔助字根亼，不能跨越字首字身取
 oml  𠇭
 omli  𫝇
