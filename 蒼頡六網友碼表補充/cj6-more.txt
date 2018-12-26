@@ -119,6 +119,9 @@ alo   𬀲
 # 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
 alry  𠘀
 ambg  𪱑
+anjlu 𨳻
+anmjh 𨴸
+anmkh 𨴸
 # 參見㤲字，及麥字取kohe，十人可能取作大字根了，作字首。
 bkoh  𦟬
 blu   𦉭
