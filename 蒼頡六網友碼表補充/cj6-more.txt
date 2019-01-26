@@ -160,6 +160,7 @@ inf   礻
 # 𠘤字，按UCS字形上凝下氷，按其他字形可能作左冫、右上疑下氷
 ioie  𠘤
 moie  𠘤
+nxno  欿
 jaj   龺
 jook  𠁊
 jv    𫠠
