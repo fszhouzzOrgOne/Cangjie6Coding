@@ -147,6 +147,7 @@ goll  𧺈
 gyoln 𧺈
 hdh   𠄒
 hf    爫
+hi    𬼀
 hog   坕
 hoyhv 𧙍
 hnhii 𮕕
@@ -175,6 +176,9 @@ mav  良
 mbrv 𠄢
 mbvm 𠄢
 mkr  啓
+# 按官方pdf，画字可以mulw和mluw。
+mluw 画
+mluw 画
 mz   𩾏
 nmxc 𫝖
 nz   𩰲
@@ -182,6 +186,9 @@ obou 𠒯
 ogob 𨿇
 ohbh  𪝹
 oibh  𪝹
+# 令和，日本年號字
+oihdr ㋿
+olhdr ㋿
 omfp  𢚒
 omwa  㑹
 # 輔助字根亼，不能跨越字首字身取
