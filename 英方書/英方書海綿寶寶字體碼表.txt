@@ -9,7 +9,7 @@
  ar
  as
  at
-
+ auld
 
 
 
@@ -75,7 +75,7 @@
  bo
  book
  bu
-
+ brought
 
 
 
@@ -137,11 +137,11 @@
  com
  con
  cour
-
-
-
-
-
+ cap
+ cius
+ cold
+ could
+ cup
 
 
 
@@ -197,7 +197,7 @@
  ding
  dis
  dom
-
+ dear
 
 
 
@@ -333,8 +333,8 @@
  from
  fron
  fu
-
-
+ fer
+ for
 
 
 
@@ -386,10 +386,10 @@
  gainst
  good
  grow
-
-
-
-
+ gen
+ ger
+ get
+ got
 
 
 
@@ -515,7 +515,7 @@
  in
  is
  it
-
+ iu
 
 
 
@@ -641,7 +641,7 @@
  k
  ke
  king
-
+ kind
 
 
 
@@ -713,8 +713,8 @@
  lish
  lo
  ly
-
-
+ lang
+ ll
 
 
 
@@ -777,9 +777,9 @@
  mis
  mon
  my
-
-
-
+ mes
+ min
+ mind
 
 
 
@@ -837,10 +837,10 @@
  no
  not
  nua
-
-
-
-
+ nes
+ ness
+ nest
+ nin
 
 
 
@@ -897,9 +897,9 @@
  o
  of
  ou
-
-
-
+ old
+ ought
+ ould
 
 
 
@@ -1025,7 +1025,7 @@
  q
  qa
  quar
-
+ quain
 
 
 
@@ -1173,10 +1173,10 @@
  sub
  sud
  sue
-
-
-
-
+ should
+ sius
+ sous
+ sy
 
 
 
@@ -1246,8 +1246,8 @@
  tue
  two
  ty
-
-
+ tear
+ thought
 
 
 
@@ -1411,8 +1411,8 @@
  who
  with
  word
-
-
+ we
+ will
 
 
 
@@ -1599,7 +1599,7 @@
 
 
  z
-
+ zo
 
 
 
