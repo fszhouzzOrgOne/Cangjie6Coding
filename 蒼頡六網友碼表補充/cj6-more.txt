@@ -132,6 +132,7 @@ blu   𦉭
 blxk  𦥼
 # 官方PDF有這個取法
 bmll  𠕲
+bru   𭁳
 bumlc 𥄙
 bx    𠕄
 cmso  㒸
@@ -200,6 +201,7 @@ omli  𫝇
 ompno 钦
 onmgi 㺸
 opy   铲
+pofm  𪫺
 pywv  懐
 # 三疊字，六代規則化。按官方pdf，取qdqdd。
 qdqdd 䆐
