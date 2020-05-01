@@ -276,7 +276,7 @@ qdqdd 䆐
 qmb   靑
 qms   𫠤
 rhws  𠿋
-rhxs  𪚩
+rhxu  𪚩
 rykk  𠲲
 # 𢑱字形多作彑頭
 rmfk  𢑱
