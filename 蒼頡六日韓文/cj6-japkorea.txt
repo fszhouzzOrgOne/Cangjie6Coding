@@ -206,7 +206,9 @@ nvs  ろ
 mn   ラ
 ll   リ
 lv   ル
+hv   ル
 lu   ル
+hu   ル
 lm   レ
 r    ロ
 lns  わ
