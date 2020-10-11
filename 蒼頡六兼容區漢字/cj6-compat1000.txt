@@ -504,6 +504,7 @@ mgjbc 瑱
 tvmn 甆
 timun 甆
 mulw 画
+mluw 画
 kwle 瘝
 kabt 瘟
 tcbt 益
@@ -526,6 +527,7 @@ outt 缾
 qa 者
 qia 者
 tovu 荒
+tvou 荒
 tmtj 華
 liwot 蝹
 lnii 襁
@@ -615,6 +617,7 @@ pcpbc 㒹
 ob 內
 mgb 再
 bbmm 𠕋
+btt 𠕋
 bhu 冗
 bshi 冤
 bnai 冤
@@ -722,8 +725,11 @@ vhh 姘
 vtt 姘
 vsbb 婦
 vjce 㛮
+vjfe 㛮
 vhjl 㛼
 vmjl 㛼
+vhjx 㛼
+vmjx 㛼
 vggn 嬈
 vdlc 嬾
 vdlz 嬾
@@ -954,6 +960,7 @@ frse 煅
 fvw 𤉣
 fhwp 熜
 fftf 𤎫
+ffto 𤎫
 xbddf 爨
 bwli 爵
 llhjl 牐
@@ -1074,6 +1081,7 @@ wlvvd 罺
 wlvfv 𦌾
 tgye 羕
 hjss 翺
+hkss 翺
 qia 者
 qa 者
 huumb 𦓚
