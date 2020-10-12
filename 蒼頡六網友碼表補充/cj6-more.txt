@@ -1,29 +1,30 @@
-####### 雪齋之前删了些字編碼，這裡去掉所有兼容區字
-######### 其餘的字，查對了一回其中一些錯碼，補充在這裡
-######### 碼表中已有的字，也用#註釋掉了
-######################
-# 𤝇 khnki 編碼可能有誤
-######################
-#𠃍在下，都取尸，補充一些
-# gis 𪢳
-# yjs 㪲
-# yms 㫇
-# yys 㫇
-# 倒字，可以用「片」作末尾表示倒字。（ArtherMcarther 問過官方得知）
-# 六代官方pdf中有𠄏𠄔𣥒等字的編碼，其他字依例補加，E區爲止
-# irmz 𢨋
-# irzye 𣀨
-# nnz 𠄏
-# nzz 𠄔
-# 雪齋的對，ogzf
-# ogzf 𰨇
-# oirz 𠐲
-# vinnz 𢆴
-# xzx 𣥒
-# yzbuc 𧹂
-# yzbuu 𬢆
-# 按ArtherMcarther，引入Z鍵來編碼「反字」
-# 反字如臦𦣩，加容錯
+########## 雪齋之前删了些字編碼，這裡去掉所有兼容區字
+############ 其餘的字，查對了一回其中一些錯碼，補充在這裡
+############ 碼表中已有的字，也用#註釋掉了
+#########################
+#### 𤝇 khnki 編碼可能有誤
+#########################
+####𠃍在下，都取尸，補充一些
+#### gis 𪢳
+#### yjs 㪲
+#### yms 㫇
+#### yys 㫇
+#### 倒字，可以用「片」作末尾表示倒字。（ArtherMcarther 問過官方得知）
+#### 六代官方pdf中有𠄏𠄔𣥒等字的編碼，其他字依例補加，E區爲止
+buhwz 𮗙
+#### irmz 𢨋
+#### irzye 𣀨
+#### nnz 𠄏
+#### nzz 𠄔
+#### 雪齋的對，ogzf
+#### ogzf 𰨇
+#### oirz 𠐲
+#### vinnz 𢆴
+#### xzx 𣥒
+#### yzbuc 𧹂
+#### yzbuu 𬢆
+#### 按ArtherMcarther，引入Z鍵來編碼「反字」
+#### 反字如臦𦣩，加容錯
 nnz 𫸪
 rzhpu 𨞰
 rzrau 𨛜
@@ -31,16 +32,16 @@ rztcu 𨞠
 rauz 𨙨
 szsll 臦
 slslz 𦣩
-# 按ArtherMcarther言“𫥮𫯆𬲈，共同所含的部件，官方回答作字身可取「戈人金」
-# 「𬲈」按Unicode文档上方两横和「几」相交，我取「竹女」。”
-# 網友原編有hn開頭，改正下，並加入hv開頭的，暫都作字首。
-# yuioc 𫥮
-# icgah 𫯆
+#### 按ArtherMcarther言“𫥮𫯆𬲈，共同所含的部件，官方回答作字身可取「戈人金」
+#### 「𬲈」按Unicode文档上方两横和「几」相交，我取「竹女」。”
+#### 網友原編有hn開頭，改正下，並加入hv開頭的，暫都作字首。
+#### yuioc 𫥮
+#### icgah 𫯆
 hnioc 𬲈
 hvioc 𬲈
-#取oo的錯碼，官方pdf有取oo的，這裡將錯就錯
-#𥶫字都相同，不列入
-# 將錯就錯，留下它
+####取oo的錯碼，官方pdf有取oo的，這裡將錯就錯
+####𥶫字都相同，不列入
+#### 將錯就錯，留下它
 buoou 𥋎
 eoou 𣾨
 hoou 𥴔
@@ -48,10 +49,10 @@ mgoou 𤩣
 oolu 睂
 oounl 𨞅
 oolv 𡡚
-# 保留這個，官方pdf也有取oo的。
+#### 保留這個，官方pdf也有取oo的。
 uoou 𡼴
 voou 𡡾
-#第一種正確取法
+####第一種正確取法
 buolu 𥋎
 eolu 𣾨
 holu 𥴔
@@ -61,67 +62,68 @@ olmbv 𡡚
 olunl 𨞅
 uolu 𡼴
 volu 𡡾
-#ombu 睂，第二種正確取法
-# vomu 𡡾
-# uomu 𡼴
-# buomu 𥋎
+####ombu 睂，第二種正確取法
+#### vomu 𡡾
+#### uomu 𡼴
+#### buomu 𥋎
 homu 𥴔
-# 𦦊字按官方pdf，取xm開頭，依之改幾個字
-# xmwks 𦦊
-# hjxm 𦥫
+#### 𦦊字按官方pdf，取xm開頭，依之改幾個字
+#### xmwks 𦦊
+#### hjxm 𦥫
 hsxm 𦥢
-# nxm 𦥢
-# tuxm 𦥾
-# 按官方pdf，𠃚字取sss，𠃬取ssss，𧦮字取yrsse，𢎧字取ssn。
-# 其他字，查改一些。𧅍𧂘，網友取jr開頭，也改正下，另加trr開頭的。
-# esss 𣵬
-# 官方pdf
-# gxce 𡓻
+#### nxm 𦥢
+#### tuxm 𦥾
+#### 按官方pdf，𠃚字取sss，𠃬取ssss，𧦮字取yrsse，𢎧字取ssn。
+#### 其他字，查改一些。𧅍𧂘，網友取jr開頭，也改正下，另加trr開頭的。
+#### esss 𣵬
+#### 官方pdf
+#### gxce 𡓻
 hosse 𤓷
-# ifssm 𥙥
-# ifsss 𥙸
+#### ifssm 𥙥
+#### ifsss 𥙸
 jrssk 𧅍
 jrssk 𧂘
 jsjrk 𧅍
 jsjrk 𧂘
-# mfssm 𥙥
-# mfsss 𥙸
-# rrssk 𤕦
+#### mfssm 𥙥
+#### mfsss 𥙸
+#### rrssk 𤕦
 rrssk 𡄉
 rsrkk 𤕦
 rsrkk 𡄉
-# sshne 𣪐
-# ssn 𢎧
-# sss 𠃚
-# ssse 𡕪
-# ssse 𠭵
-# ssss 𠃬
-# trrk 𧅍
-# trrk 𧂘
-# tssk 𦷠
-# yrsse 𧦮
-# 六代十鍵中的字根，如“𪧇-丆”或“𪧇+（夢-冖夕）”，都取一碼：十
-# jbsb 㝲
-# jbhd 𡬒
-# jbfd 𡬍
-# jbse 𡬓
-# jbe 𡫺
-# jbe 𡬄
-# jbff 𡬖
-# jbmf 𡬇
-# jbhk 𡬊
-# jbbn 𡬙
-# jbmr 𡬑
-# jbbu 𡬌
-# jbv 𡫽
-# jmbi 𫳻
-# jmmw 𫳼
-# jmqx 𫴛
-# 帶奇怪筆劃的字，雪齋加上片，先補上原碼，待定
-# 另，ArtherMcarther說丶几作字首，分體字。
+#### sshne 𣪐
+#### ssn 𢎧
+#### sss 𠃚
+#### ssse 𡕪
+#### ssse 𠭵
+#### ssss 𠃬
+#### trrk 𧅍
+#### trrk 𧂘
+#### tssk 𦷠
+#### yrsse 𧦮
+#### 六代十鍵中的字根，如“𪧇-丆”或“𪧇+（夢-冖夕）”，都取一碼：十
+#### jbsb 㝲
+#### jbhd 𡬒
+#### jbfd 𡬍
+#### jbse 𡬓
+#### jbe 𡫺
+#### jbe 𡬄
+#### jbff 𡬖
+#### jbmf 𡬇
+#### jbhk 𡬊
+#### jbbn 𡬙
+#### jbmr 𡬑
+#### jbbu 𡬌
+#### jbv 𡫽
+#### jmbi 𫳻
+#### jmmw 𫳼
+#### jmqx 𫴛
+#### 帶奇怪筆劃的字，雪齋加上片，先補上原碼，待定
+#### 另，ArtherMcarther說丶几作字首，分體字。如官方六代PDF𠂸取hngt。
 inkk 𡦹
 jkk 𡧑
 lkmc 𭁇
+mwxk 𠪳
 niav 𭥟
 oidi 𠍋
 oiki 𠍋
@@ -130,109 +132,122 @@ omkv 𠆭
 omnv 𠆭
 tmkz 𦹗
 wk 𡆢
-# 帶〇的雪齋改口片，先補上原碼，待定
+#### 帶〇的雪齋改口片，先補上原碼，待定
 krr 㔔
 r 〇
 yjr 㪳
 ymr 㫈
 yyr 㫈
-#############################################
-#其他漢字區
-#############################################
-#碼表錯作鶥
+################################################
+####其他漢字區
+################################################
+####碼表錯作鶥
 ahumz 眉頁
-# 還是留着日中的
+#### 還是留着日中的
 alnm 𣆜
-# alo 𬀲
-# 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
-# 兼容下字形，留下日中
+#### alo 𬀲
+#### 𠘀字官方pdf取alrm，另有網友編airy，加一個alry。
+#### 兼容下字形，留下日中
 alrm 𠘀
 alry 𠘀
 ambg 𪱑
 anjlu 𨳻
-# anmjh 𨴸
-# anmkh 𨴸
+#### anmjh 𨴸
+#### anmkh 𨴸
 bei 肞
-# 參見㤲字，及麥字取kohe，十人可能取作大字根了，作字首。
-# bkoh 𦟬
-# blu 𦉭
-# 查無出處，按三代猜測的編法
+#### 參見㤲字，及麥字取kohe，十人可能取作大字根了，作字首。
+#### bkoh 𦟬
+#### blu 𦉭
+#### 查無出處，按三代猜測的編法
 blxk 𦥼
-# 官方PDF有這個取法
+#### 官方PDF有這個取法
 bmll 𠕲
-# 加個作月的，兼容下字形
+#### 加個作月的，兼容下字形
 bmsc 𤓹
-# bru 𭁳
-# bumlc 𥄙
-# bx 𠕄
-# cmso 㒸
+#### bru 𭁳
+#### bumlc 𥄙
+#### bx 𠕄
+#### cmso 㒸
 cwa 曾
 dnzd 𪳻
-# ds 𣎺
-# ds 𠀟
-# ebky 𬉝
-# 理同 𧹘発
+#### ds 𣎺
+#### ds 𠀟
+#### ebky 𬉝
+#### 理同 𧹘発
 eeep 𠭌
 ehsk 涙
 ewfg 濹
 fdmav 粮
-# 作中中的，還是留下
+#### 作中中的，還是留下
 foll 𧺈
 ggwy 𣫴
 goll 𧺈
-# gyoln 𧺈
-# hdh 𠄒
+#### gyoln 𧺈
+#### hdh 𠄒
 hf 爫
-# hi 𬼀
-# 兼容下字形，留下的十
+#### hi 𬼀
+#### 兼容下字形，留下的十
 hjh 𠄒
-# 官方pdf取hlai
+#### 官方pdf取hlai
 hlai 兎
 hnhii 𮕕
+#### 兼容下字形
+hnmbg 㓘
 hnmz 鳳
 hog 坕
 hoyhv 𧙍
 hrdhe 𤿘
 nrdhe 𤿘
-# hut 𢍂
+#### hut 𢍂
 hxu 龜
-# 䑮字，按UCS字形从朶，按GB18030-2000/2005从朵
-# hyhnd 䑮
-# 先補上，待定
+#### 䑮字，按UCS字形从朶，按GB18030-2000/2005从朵
+#### hyhnd 䑮
+#### 先補上，待定
 iclii 𧒟
-# 補上帶女的，待定
+#### 補上帶女的，待定
 ifsvm 𥙥
 mfsvm 𥙥
 iiso 辶
-# 官方pdf中，單打這個用戈弓卜
+#### 官方pdf中，單打這個用戈弓卜
 iny 礻
-# 𠘤字，按UCS字形上凝下氷，按其他字形可能作左冫、右上疑下氷
+#### 𠘤字，按UCS字形上凝下氷，按其他字形可能作左冫、右上疑下氷
 ioie 𠘤
-# 錯碼，作弋頭
+#### 錯碼，作弋頭
 ipoll 𢎉
 ipoln 𢎉
-# 有的字形作黒，所以加一個
-kwgf 𬏼
-# jaj 龺
-# jli 𬺿
-# 先補上卜的
+#### jaj 龺
+#### 如官方PDF𠁊取jook
+jbuk 𥈜
+jkhqu 𣰠
+#### 加一個上下分的
+jjwbw 𨐄
+#### jli 𬺿
+#### 先補上卜的
 jly 𬺿
+#### 加個大弓、十弓
+jnyhs 𭤪
+knyhs 𭤪
+#### 官方PDF𠁊取jook
 jook 𠁊
 jv 𫠠
 jvs 𬻒
-# 先留下kc的，待定
+#### 先留下kc的，待定
 kcinx 𤫒
-# 㤲字官方PDF取kop。 ArtherMcarther指出： 以人与下分离可以当字首
-# kop 㤲
-# 兼容下字形，加個取l的
+#### 㤲字官方PDF取kop。 ArtherMcarther指出： 以人与下分离可以当字首
+#### kop 㤲
+#### 有的字形作黒，所以加一個
+kwgf 𬏼
+#### 兼容下字形，加個取l的
 limlw 𬠂
 llsb 帰
 lmje 𭣖
-# 加兩個連在一起作字首的，如𫿞字
+#### 加兩個連在一起作字首的，如𫿞字
 lmmjk 𭤏
 lmnjk 𭤏
 lomnk 𭤏
-# lqmt 䀌
+#### 巿十月
+lnjb 鬧
+#### lqmt 䀌
 lso 𬮘
 luoz 頫
 lwct 𭾉
@@ -242,173 +257,183 @@ lwmi 𡇛
 mav 良
 mbrv 𠄢
 mbvm 𠄢
-# mgooi 𬍦
-# mgool 𬍦
-# 暫時當作一個個字取，待定
+#### mgooi 𬍦
+#### mgool 𬍦
+#### 暫時當作一個個字取，待定
 mimip 𱁬
 mjsqf 𩢽
 mjxmz 𩒞
 mkr 啓
-# 按官方pdf，画字可以mulw和mluw。
-# mluw 画
-# 兼容漢字，取消：mluw 画
+#### 加個mlhn，如𠁘𠀺，另有𠁈可能要取mnhfr
+mlhn 𣃪
+#### 官方PDF取mlnm
+mlnm 𠀣
+#### 按官方pdf，画字可以mulw和mluw。
+#### mluw 画
+#### 兼容漢字，取消：mluw 画
 mmlmc 𭂟
-# 按官方m中多了個字根┌，形同厂
+#### 按官方m中多了個字根┌，形同厂
 mmmu 㒫
 mmrhu 况
-# 按官方m中多了個字根┌，形同厂
+#### 按官方m中多了個字根┌，形同厂
 mmunl 𨛞
 mmcnl 𨛞
+#### 𠁈可能要取mnhfr，不同於𠁘𠀺
+mnhfr 𠁈
 mnru 𭮀
 moie 𠘤
 mrdt 𥔫
-# 加一個，右邊有作菐的，兼容下字形
+#### 加一個，右邊有作菐的，兼容下字形
 mrlto 𮁅
-# 加一個，兼容下字形
+#### 加一個，兼容下字形
 mshne 𣪔
 mz 𩾏
 mzemi 𮦵
 nlmyp 𨼆
 nmxc 𫝖
 nmsm 𬻆
-# nxno 欿
+#### nxno 欿
 nz 𩰲
 obou 𠒯
 ogob 𨿇
-# ohbh 𪝹
-# oibh 𪝹
-# 加個hk，兼容下字形
+#### ohbh 𪝹
+#### oibh 𪝹
+#### 加個hk，兼容下字形
 ohkp 𢞋
-# 令和，日本年號字
+#### 令和，日本年號字
 oihdr ㋿
 olhdr ㋿
 omfp 𢚒
 omgc 𠋾
-# oml 𠓡
-# 輔助字根亼，不能跨越字首字身取
-# oml 𠇭
-# omli 𫝇
-# 加個卜的𫝇
+#### oml 𠓡
+#### 輔助字根亼，不能跨越字首字身取
+#### oml 𠇭
+#### omli 𫝇
+#### 加個卜的𫝇
 omly 𫝇
 ompno 钦
-# onmgi 㺸
+#### onmgi 㺸
 opy 铲
 otdd 𣞣
-# 加一個ov的
+#### 加一個ov的
 ovlso 𮩆
 pywv 懐
-# 三疊字，六代規則化。按官方pdf，取qdqdd。
-# qdqdd 䆐
+#### 三疊字，六代規則化。按官方pdf，取qdqdd。
+#### qdqdd 䆐
 qhlb 𢸌
 qmb 靑
 qms 𫠤
-# 補充rhbs的𠿋
-# rhws 𠿋
+#### 補充rhbs的𠿋
+#### rhws 𠿋
 rhbs 𠿋
 rhxu 𪚩
-# 加兩個rm作字首的，如𫿞
+#### 加兩個rm作字首的，如𫿞
 rmmjk 𭌔
 rmnjk 𭌔
-# 按官方pdf，𧹘取ttz
+#### 按官方pdf，𧹘取ttz
 rttz 𠵢
 rykk 𠲲
-# 𢑱字形多作彑頭
-# rmfk 𢑱
-# seooo 聚
+#### 𢑱字形多作彑頭
+#### rmfk 𢑱
+#### seooo 聚
 sjiil 𫆍
 sjivl 𫆍
 sk 刃
 smikh 𮪡
-# 按官方m中多了個字根┌，形同厂
+#### 按官方m中多了個字根┌，形同厂
 smm 𠀌
 smmnl 𨚑
 smmu 𡵽
-# sn 𠃌
-# ss 𠥓
+#### sn 𠃌
+#### ss 𠥓
 ssls 𪟭
 su 已
-# 䕎字，按UCS字形从日，按GB18030-2000/200从目
+#### 䕎字，按UCS字形从日，按GB18030-2000/200从目
 tamw 䕎
-# 同理 𧹘 字
-# tij 𠂀
-# 加兩個，待定
+#### 同理 𧹘 字
+#### tij 𠂀
+#### 加兩個，待定
 tmlb 𫷄
 tulb 𫷄
 ty 𠂀
 tj 𠦒
-# 𭀤 字取tlhu不對，同理 𧹘 字，又參考発字。
+#### 𭀤 字取tlhu不對，同理 𧹘 字，又參考発字。
 tkpc 𭀤
-# 䕈字，按UCS字形从片，按GB18030-2000/2005，从爿
+#### 䕈字，按UCS字形从片，按GB18030-2000/2005，从爿
 tlld 䕈
 tlsd 䕈
 tmz 鿓
-# 按官方m中多了個字根┌，形同厂，按ArtherMcarther指出
+#### 按官方m中多了個字根┌，形同厂，按ArtherMcarther指出
 tslm 𠁬
-# 不可以破壞交叉的特徵，如干取一十；「冓-冉」不取龷ㅛ，取艹龷；丰取手十。
-# 又「亦-亠」是「片」的根。官方pdf也取ttz。（多謝ArtherMcarther指出）
+#### 不可以破壞交叉的特徵，如干取一十；「冓-冉」不取龷ㅛ，取艹龷；丰取手十。
+#### 又「亦-亠」是「片」的根。官方pdf也取ttz。（多謝ArtherMcarther指出）
 ttz 𧹘
 tvvv 𦭺
-# 𠀫、𠀪字，依官方pdf改正
-# tzh 𠀫
-# tzi 𠀪
-# uubx 𠚜
-# uubx 𠚡
-# uumg 𠚖
-# uuvuu 𦱠
-# 加個k的，兼容下字形
+#### 𠀫、𠀪字，依官方pdf改正
+#### tzh 𠀫
+#### tzi 𠀪
+#### uubx 𠚜
+#### uubx 𠚡
+#### uumg 𠚖
+#### uuvuu 𦱠
+#### 加個k的，兼容下字形
 uvfk 𫶦
-# vfyrf 龻
+#### vfyrf 龻
 vl 乚
 vlm 𡳿
-# 保留wc的，兼容下字形
+#### 加個vo，待定
+vo 𠙴
+#### 保留wc的，兼容下字形
 wcr 𠰝
 wcymf 𡮧
 wllk 𡚇
-# wlr 𠰝
+#### wlr 𠰝
 wmll 曱
 wx 𡆵
 xkbt 𥂞
-# xum 𠙿
-# 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
+#### xum 𠙿
+#### 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
 ybd 𬃄
 ybd 𭪢
-# 按官方pdf，同理𠧰取ybmmr
+#### 按官方pdf，同理𠧰取ybmmr
 ybefd 𥹟
-# 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
+#### 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
 ybg 𡋪
 ybhn 𠅙
-# 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
+#### 按官方pdf，𬃄𭪢取ybd，𡋪取ybg
 ybmob 𠨆
-# ybypg 𪚤
+#### ybypg 𪚤
 yhqm 産
 ykll 斎
+#### 加一個，待定
+ylu 𬺾
 ynddh 𧈇
-# yniz 𰲞
-# yuiz 𰲞
-# yriop 𧫎
-# 按官方pdf，遂作字首，道字同理，如導
-# yof 㸂
+#### yniz 𰲞
+#### yuiz 𰲞
+#### yriop 𧫎
+#### 按官方pdf，遂作字首，道字同理，如導
+#### yof 㸂
 yof 鿪
-# 按官方pdf取ypybp，應該是两字相同即作兩部分，不同就作一個字。
+#### 按官方pdf取ypybp，應該是两字相同即作兩部分，不同就作一個字。
 ypybp 龖
 ythr 𠱫
-#############################################
-# 擴展區遺漏的字
-#############################################
-# A區
-# C區
-# F區
-#############################################
-#以下是一些符號
-#############################################
-# 中日韓筆畫部件區（可不管）
+################################################
+#### 擴展區遺漏的字
+################################################
+#### A區
+#### C區
+#### F區
+################################################
+####以下是一些符號
+################################################
+#### 中日韓筆畫部件區（可不管）
 ns ㇡
-# 中日韓符號和標點區（可以不管）
+#### 中日韓符號和標點區（可以不管）
 i 、
 ni 々
-# 中日韓部首補充區（可以不管）
+#### 中日韓部首補充區（可以不管）
 bmm ⺜
-# 蘇州碼子
+#### 蘇州碼子
 l 〡
 ll 〢
 lll 〣
@@ -577,7 +602,7 @@ ffbrr 🈺
 etub 🈵
 etlb 🈵
 etmb 🈵
-# Z鍵符號
+#### Z鍵符號
 za ‘
 za ’
 za “
