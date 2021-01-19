@@ -229,10 +229,13 @@ jnyhs 𭤪
 knyhs 𭤪
 #### 官方PDF𠁊取jook
 jook 𠁊
+js   𠀁
 jv 𫠠
 jvs 𬻒
 #### 先留下kc的，待定
 kcinx 𤫒
+#### 按神勇網友討論
+kj   𠀆
 #### 㤲字官方PDF取kop。 ArtherMcarther指出： 以人与下分离可以当字首
 #### kop 㤲
 #### 有的字形作黒，所以加一個
@@ -289,6 +292,8 @@ mrlto 𮁅
 mshne 𣪔
 mz 𩾏
 mzemi 𮦵
+#### ⿳雲⿲雲龍雲⿰龍龍的字
+mzmmp 𱁬
 nlmyp 𨼆
 nmxc 𫝖
 nmsm 𬻆
@@ -375,6 +380,7 @@ tvvv 𦭺
 #### uubx 𠚜
 #### uubx 𠚡
 #### uumg 𠚖
+uuuug 𧀍
 #### uuvuu 𦱠
 #### 加個k的，兼容下字形
 uvfk 𫶦

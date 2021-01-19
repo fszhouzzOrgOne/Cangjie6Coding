@@ -358,6 +358,7 @@ nwlu  ⻲
 nwu  ⻳
 m  ㇀
 si  ㇁
+ln  ㇁
 lv  ㇂
 iu  ㇃
 iv  ㇃
